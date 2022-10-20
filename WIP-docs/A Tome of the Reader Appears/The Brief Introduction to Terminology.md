@@ -29,7 +29,7 @@ A **Session** is the in-real-life game session you and your players will play. I
 
 
 
-## The TO BE POLLED
+## The Elements
 
 Where the **Hierarchy** and Sessions contain the plotting organization structure and overall story, the **Elements** contain the individuals, places, occasions, and other Worldbuilding items that help the campaign come to life. 
 
@@ -48,6 +48,6 @@ A **Character** or **Player Character** is the character of a **Player**.
 >"*Of course it was not. This is your final chance to leave. Forward or backwards. It matters not to me.*" *He's gone into the wall of symbols without so much as a backwards glance.*
 
 
-Each page will include forwards and backwards navigation, but our dear Zaden does not know that. Can you imagine how much it would cost to replace him if he knew he could leave? Yeah, thats not happening.
+Each page will include standard forwards and backwards navigation from here on, but our dear Zaden does not know that. Can you imagine how much it would cost to replace him if he knew he could leave? Yeah, thats not happening.
 
 Now Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building%20the%20Campaign/Archives%20of%20the%20Campaigns.md). 
