@@ -19,9 +19,9 @@ plot:
     return: 
     change: 
 data: 
-  date: 3018-10-20
-  synopsis: 
-  complete: false
+  date: "3018-10-20"
+  synopsis: "The Ring has been found. Mordor awakens. A battle that was once thought over starts again. Frodo and Sam must take the journey of their lives and sacrifice everything and everyone to see the Ring destroyed."
+  complete: true
   currentAdventureId: 
   currentActId: 
   currentSessionId: 
