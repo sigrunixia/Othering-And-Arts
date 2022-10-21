@@ -12,10 +12,10 @@ First, let's sort you into one of four groups so you can know what to skip and w
 > *A-lalla-lalla What can the Ents do for you? Little Readers*
 
 R1: I am __Brand New__ and I __Do Not Need__ To Import Data!  
-Ent: Ta-runa. You are Little Orc. No? Oh. You are __Team Seed__ 🌱.
+Ent: Ta-runa. You are Little Orc. No? Oh. You are __#Seed__ 🌱.
 
 R2: I __Need To Import__ an __In-Progress Campaign__!  
-Ent: You are __Team Tree__ 🌲.
+Ent: You are __#Tree__ 🌲.
 
 R3: I __Need To Import__ a __Completed Campaign__ (and perhaps __In-Progress__ too…)  
 Ent: *__The Ent is very certain this one is an Orc disguised as a Reader.__*
@@ -29,11 +29,11 @@ R3: Do I just…?
 >*__DC 15__* __Deception Check__ : 1d20+2 -> [15]+2 -> __17__  
 >*The dice disappear.*
 
-Ent: Hmmm…You are __Team Herb__ 🌿.  
+Ent: Hmmm…You are __#Herb__ 🌿.  
 R3: *`Cool. I totally fooled that tree. Toasty campfire tonight.`*
 
 R4: I'm Just __Here To Browse__.  
-Ent: HARUMPH! I knew you were "Little Orcs."" You are __Team Cactus__ 🌵.
+Ent: HARUMPH! I knew you were "Little Orcs."" You are __#Cactus__ 🌵.
 
 > The Ent disappears with a pop.
 
@@ -54,9 +54,9 @@ This guide will teach you step-by-step how to do the following:
 
 Due to this guide addressing three use cases (No Import, In Progress, Completed), you will notice some pages contain a small blurb or callout that looks like the following:
 
->🌲 __Team Tree__: Do not proceed to the next step yet. Go back, and repeat steps 1 through 2 for each location you want to add. When completed, you may move onto the next step.
+>🌲 __Tree__: Do not proceed to the next step yet. Go back, and repeat steps 1 through 2 for each location you want to add. When completed, you may move onto the next step.
 >
-> 🌱 __Team Seed__: We suggest skipping this section for now and coming back when you are ready to add more things.
+> 🌱 __Seed__: We suggest skipping this section for now and coming back when you are ready to add more things.
 
 Please read these carefully as they were added to save you time, maximize your understanding, and get you playing faster.
 
