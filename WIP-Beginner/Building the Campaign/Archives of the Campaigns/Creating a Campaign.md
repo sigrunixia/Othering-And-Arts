@@ -35,14 +35,6 @@ When you select **Create a New Campaign**, or for those who are #Leaf and #Herb,
 - What template you would like to use for the campaign. 
 	- This will be the subject of another guide. For now, we will use the default template. 
 
-- What campaign setting you would like to use. 
-	- Agnostic: #Clarification
-	- Raw: #Clarification
-	- Vampire: #Clarification
-
-- What date you want the campaign to start at. 
-	- Currently, RPGM supports only the gregorian calendar and time formats. Implementation of [**Obsidian Fantasy Calendar**](https://github.com/fantasycalendar/obsidian-fantasy-calendar) support is expected in the near future. 
-
 In the Lord of the Rings, two popular calendars are [**Shire-Reconking**](https://tolkiengateway.net/wiki/Shire_Calendar) and [**Stewards Reckoning**](https://tolkiengateway.net/wiki/Stewards%27_Reckoning). I had Fantasy Calendar randomize us a year from Stewards Reckoning, and it provided us with the year 3018. Adding in a random date of your choice in that year, go ahead and click **Create**. 
 
 ![RPGM_Campaign_New_Fill_Window](../../Z_Photo-Album/Guide/RPGM_Campaign_New_Fill_Window.png)
