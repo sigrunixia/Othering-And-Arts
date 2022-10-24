@@ -23,10 +23,15 @@ If you do not see either of those options, check your settings to see if RPG-Man
 
 If it is enabled, I suggest you leave this document and [**raise a little white flag**](https://github.com/carlonicora/obsidian-rpg-manager/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc). I'll send Zaden to clean up your ashes. 
 
-![RPGM_Campaign_OpeningPal](../../Z_Photo-Album/Guide/RPGM_Campaign_OpeningPal.png)
+![RPGM_Campaign_OpeningPal](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_OpeningPal.png)
 
 ### New Campaign Screen
 
+You have two options to create a Campaign: Create, or Fill. The difference between Create and Fill is minimal. 
+- Create will create a Brand New Note. 
+- Fill will deposit the module data in the current Note. 
+
+It is recommended to **Create** over using **Fill** unless you are an experienced RPGM user and have learned how RPGM interacts with other Obsidian elements and templates. 
 
 When you select **Create a New Campaign**, or for those who are #Leaf and #Herb, **Fill a Campaign**, you will receive a pop-up window that will ask for:
 
@@ -35,20 +40,20 @@ When you select **Create a New Campaign**, or for those who are #Leaf and #Herb,
 - What template you would like to use for the campaign. 
 	- This will be the subject of another guide. For now, we will use the default template. 
 
-In the Lord of the Rings, two popular calendars are [**Shire-Reconking**](https://tolkiengateway.net/wiki/Shire_Calendar) and [**Stewards Reckoning**](https://tolkiengateway.net/wiki/Stewards%27_Reckoning). I had Fantasy Calendar randomize us a year from Stewards Reckoning, and it provided us with the year 3018. Adding in a random date of your choice in that year, go ahead and click **Create**. 
+#Redo
 
-![RPGM_Campaign_New_Fill_Window](../../Z_Photo-Album/Guide/RPGM_Campaign_New_Fill_Window.png)
+![RPGM_Campaign_New_Fill_Window](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_New_Fill_Window.png)
 
 ### The Campaign Hierarchy Page
 
 
 Once you click **Create**, a new note with the name you chose for your Campaign will be generated within the root directory of your vault. You may move it into a folder, a folder note, or leave it there. At first it will appear mostly empty. This is normal. More items will appear as you create **Adventures**, **Acts**, and more. 
 
->*Psst #Seed, #Tree, and #Herb, while he drones on... how about I give you a helping hand? Wherever you place your Campaign File, is where your automatically generated Adventure, Acts, Characters, and other folders will generate. Move that Campaign File first.* 
+>*Psst #Seed, #Tree, and #Herb, while he drones on... how about I give you a helping hand? Wherever you place your Campaign File, is where your automatically generated Adventure, Acts, Characters, and other folders will generate. Move the Campaign File first. It will make everything much more organized down the muddy-laden road.* 
 
 
 
-![RPGM_Campaign_Page_Empty](../../Z_Photo-Album/Guide/RPGM_Campaign_Page_Empty.png)
+![RPGM_Campaign_Page_Empty](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Page_Empty.png)
 
 
 ### Adding a Synopsis
@@ -57,18 +62,17 @@ You have your Campaign Page, now it needs a **Synopsis**.
 
 Hover over the *`Synopsis missing`* row, and to the right a `</>` symbol will show up. **Click it**.
 
-![RPGM_Campaign_Synopsis_Button](../../Z_Photo-Album/Guide/RPGM_Campaign_Synopsis_Button.png)
+![RPGM_Campaign_Synopsis_Button](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Synopsis_Button.png)
 
 Once you click it. Above the Campaign Page box, the **Page Options Die** icon will disappear and a code block called the **RpgManagerData** block with **YAML** will appear, with many **YAML Keys**. Most of these keys are related to your optional campaign page storytelling details which we will cover in another course. For now, we will focus on the the Synopsis key.
 
 The Synopsis is not a static field, especially on the campaign page. It will grow over time. Fow now, we will add only a few lines to get you comfortable with typing in these structured code blocks. Go ahead and type the following when ready. 
 
-
 >"The Ring has been found. Mordor awakens. A battle that was once thought over starts again. Frodo and Sam must take the journey of their lives and sacrifice everything and everyone to see the Ring destroyed."
 
 Your results should look like this.
 
-![RPGM_Campaign_Codeblock](../../Z_Photo-Album/Guide/RPGM_Campaign_Codeblock.png)
+![RPGM_Campaign_Codeblock](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Codeblock.png)
 
 Click anywhere outside of the code block to exit the code block. Now go ahead and-
 
@@ -91,7 +95,7 @@ Will you two stop sidetracking the class. We have a large guide to get through!
 > *"You idiots have the passive perception of a walnut," Zaden mutters as he shuffles a cart of books through the back of the classroom.* 
 
 
-![RPGM_Campaign_Codeblock_Synopsis](../../Z_Photo-Album/Guide/RPGM_Campaign_Codeblock_Synopsis.png)
+![RPGM_Campaign_Codeblock_Synopsis](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Codeblock_Synopsis.png)
 
 > **Cactus**: See? The Ring has been found. Stupid Tree.
 > 
@@ -107,10 +111,10 @@ Click on the currently filled date on the campaign page, which is currently Octo
 
 Alternative, you can edit it manually in the RpgManagerData block in the following format. `YYYY-MM-DD` or `3018-10-20`.
 
-![RPGM_Campaign_Date](../../Z_Photo-Album/Guide/RPGM_Campaign_Date.png)
+![RPGM_Campaign_Date](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Date.png)
 
 
-### How to Mark the Campaign as Complete
+### How to Mark the Campaign or Component as Complete
 
 The deed is done. The monster slain. The world is saved. The princess a peach. Your campaign is over. Now what? Actually, no, that has nothing to do with this.
 
@@ -123,6 +127,13 @@ Made a mistake and need to unmark as completed? Go back into the RpgManagerData 
 - `complete: true`  to become `complete: false`.
 
 The  `Mark this Component as Completed` button will return.
+
+### How to Add Notes
+
+
+
+### How to Add Tags and Aliases
+
 
 
 ## Next Class

@@ -22,14 +22,14 @@ Scroll down using the scrollbar to the right.
 
 Click on RPG Manager.
 
-![RPGM_Settings_Image_Unselected](../Z_Photo-Album/Guide/RPGM_Settings_Image_Unselected.png)
+![RPGM_Settings_Image_Unselected](../Z_Photo-Album/Guide/Settings/RPGM_Settings_Image_Unselected.png)
 
 
 If you completed a fresh install, this is usually what your settings screen will look like. What you will need to do is select the Images Folder dropdown, and select which folder you want the plugin to key images for. 
 
 The plugin will perform a recursive search on the subfolders, which means it will search subsubfolders, subsubsubfolders, and so on until there are no files and folders left to search.
 
-![RPGM_Settings_Image_Selected](../Z_Photo-Album/Guide/RPGM_Settings_Image_Selected.png)
+![RPGM_Settings_Image_Selected](../Z_Photo-Album/Guide/Settings/RPGM_Settings_Image_Selected.png)
 
 Once the image folder has been selected, it has been saved in the settings and you may safely exit the settings and return to the vault. 
 

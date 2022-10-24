@@ -1,6 +1,6 @@
 ---
-alias: []
-tags: []
+aliases: ["The Lord of the Rings", "LOTR"]
+tags: ["Campaign", "TTRPG"]
 ---
 ```RpgManagerData
 plot: 
@@ -22,8 +22,8 @@ data:
   date: "3018-10-20"
   synopsis: "The Ring has been found. Mordor awakens. A battle that was once thought over starts again. Frodo and Sam must take the journey of their lives and sacrifice everything and everyone to see the Ring destroyed."
   complete: true
-  currentAdventureId: 
-  currentActId: 
+  currentAdventureId: "2/1/1"
+  currentActId: "4/1/1/1"
   currentSessionId: 
 ```
 ```RpgManager
