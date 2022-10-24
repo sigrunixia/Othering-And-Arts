@@ -1,7 +1,7 @@
 ---
 aliases: ["Campaigns", "Campaign"]
 ---
-# Archives of the Campaigns
+# Archives of the Hierarchy
 
 <-- Link to [**The Brief Introduction to Terminology**](../../A%20Tome%20of%20the%20Reader%20Appears/The%20Brief%20Introduction%20to%20Terminology.md)
 
@@ -22,4 +22,4 @@ Enough talking now. How about we do some practical work. Are you ready Seed, Lea
 
 > *Zaden watches the four adventures follow the voices through the Portal of Creation with a tired shake of head. When will they ever learn.*
 
-[**Creating a Campaign**](Creating%20a%20Campaign.md) -->
+[**Creating a Campaign**](Building%20a%20Campaign.md) -->

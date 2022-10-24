@@ -9,7 +9,7 @@ The structure is fixed and cannot be customised.
 ## The Hierarchy
 > **Campaign** > **Adventures** > **Acts** > **Scenes**
 
-A [**Campaign**](../Building%20the%20Campaign/Archives%20of%20the%20Campaigns/Archives%20of%20the%20Campaigns.md) is an overarching plot which does not involve the player characters directly.
+A [**Campaign**](../Building%20the%20Campaign/Archives%20of%20the%20Hierarchy.md) is an overarching plot which does not involve the player characters directly.
 
 > There can be only one Campaign per Campaign. There can be many Campaigns per vault.
 
@@ -47,4 +47,4 @@ A **Character** or **Player Character** is the character of a **Player**.
 >"*Of course it was not. This is your final chance to leave. Forward or backwards. It matters not to me.*" *He's gone into the wall of symbols without so much as a backwards glance.*
 
 
-Each page will include standard forwards and backwards navigation from here on, but our dear Zaden does not know that. Now, Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building%20the%20Campaign/Archives%20of%20the%20Campaigns/Archives%20of%20the%20Campaigns.md). 
+Each page will include standard forwards and backwards navigation from here on, but our dear Zaden does not know that. Now, Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building%20the%20Campaign/Archives%20of%20the%20Hierarchy.md). 

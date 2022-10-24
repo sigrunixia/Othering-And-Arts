@@ -1,7 +1,7 @@
-# Creating a Campaign
+# Building a Campaign
 
 
-<--- [**Archives of the Campaigns**](Archives%20of%20the%20Campaigns.md)
+<--- [**Archives of the Hierarchy**](Archives%20of%20the%20Hierarchy.md)
 
 
 Welcome to Creating a Campaign. You may call me **#Name**.
@@ -112,15 +112,17 @@ Alternative, you can edit it manually in the RpgManagerData block in the followi
 
 ### How to Mark the Campaign as Complete
 
-The deed is done. The monster slain. The world is saved. The princess a peach. Your campaign is over. Now what? 
+The deed is done. The monster slain. The world is saved. The princess a peach. Your campaign is over. Now what? Actually, no, that has nothing to do with this.
 
-You  `Mark this Component as Completed`. #Clarification 
+**Marking a Campaign as Completed**, or in other modules, **Marking a Component as Completed**, allows RPGM to consider the module as no longer in-edit status. Meaning, you are not in the process of building it or writing it. It acts as a `done` check-box, and will not lock the module in any other way. 
+
+You  `Mark this Component as Completed`. 
 
 Made a mistake and need to unmark as completed? Go back into the RpgManagerData by clicking the Page Options Die, and edit the following YAML Key:
 
 - `complete: true`  to become `complete: false`.
 
-The  `Mark this Component as Completed` button will return. #Clarification 
+The  `Mark this Component as Completed` button will return.
 
 
 ## Next Class
@@ -130,4 +132,4 @@ My fine, #Seed  and #Cactus . You have learned enough to move onto the world of 
 > 🌲 #Tree and 🌿 #Herb, now would be a great time to make any additional campaign pages and associated folders that you need to make for any in-progress or completed campaigns.  
 
 
-[**Bilbos Birthday Bash**](../Backpacking%20Journey%20to%20Rivendell/Backpacking%20Journey%20to%20Rivendell.md) --->
+[**Creating an Adventure**](Creating%20an%20Adventure.md) --->
