@@ -2,15 +2,17 @@
 <img src="https://live.staticflickr.com/8360/8300870890_181382ff4a_b.jpg" width="500" height="375" alt="Don&#x27;t Panic" style="display: block; margin: auto">
 
 ## RPG Mananager Header Doesn't Render
+
 This can occur at any time, usually due to malformated YAML in frontmatter keys that RPG Manager uses
 
 1. On startup, or reload, RPG Manager will usually give you an error indicating notes with broken paths. Usually the malformated YAML is in the common ancestor of the failing notes.
-    
+  
     Ex: In the below example, the adventure "Adv 1" has malformated frontmatter, causing all its decendent notes to have pathing issues
     ![Pathing Issues](/Images/Pathing_Issue.png)
 
     The frontmatter (below) has the `synopsis` key split on multiple lines. Unless the key is itself a list (like `alias`), it needs to be surrounded by double quotes, and on a single line. If the text contains quotes, they need to be single quotes.
-    ```
+
+    ```yaml
     ---
     alias: []
     tags:
@@ -20,9 +22,10 @@ This can occur at any time, usually due to malformated YAML in frontmatter keys 
         broken
     ---
     ```
+
 1. If you correct the issues with the YAML and either restart or reload, the errors should resolve, and the RPG Manager headers should render. See blow for corrected exmpale
 
-    ```
+    ```yaml
     ---
     alias: []
     tags:
@@ -31,8 +34,11 @@ This can occur at any time, usually due to malformated YAML in frontmatter keys 
     synopsis: This is not broken
     ---
     ```
+
 ## Code Blocks Visible to User
+
 This sometimes occurs during a version upgrade, usually due to malformated YAML
+
 1. The Upgrade window will process some number of your items, and then appear to hang like so until you close it
 ![Update Issues](/Images/Update_Issue.png)
 1. Open the inspector window (CTRL-SHIFT-I/Option-CMD-i)
@@ -43,24 +49,26 @@ This sometimes occurs during a version upgrade, usually due to malformated YAML
     1. YAML statements (that aren't lists) must be on a single line
     1. YAML values (not the keys) should be wrapped in double quotes
     1. Any quotes in the string should be converted to single quotes
+
 1. In the case above, this is what the failing yaml block looks like
-    ```
-    RpgManagerData
+
+    ```yaml
     data: 
-    synopsis: "this is a "test""
-    image: ""
-    complete: false
-    sessionId: 0
-    action: ""
-    trigger: ""
-    date: ""
-    sceneType: ""
-    isActedUpon: false
-    duration: 0
-    durations: []
-    storyCircleStage: ""
+      synopsis: "this is a "test""
+      image: ""
+      complete: false
+      sessionId: 0
+      action: ""
+      trigger: ""
+      date: ""
+      sceneType: ""
+      isActedUpon: false
+      duration: 0
+      durations: []
+      storyCircleStage: ""
     relationships: []
     ```
+
     1. As you can see, the `synopsis` line has a quoted string further wrapped in quotes
     1. You can corect this by replacing the internal quotes (double) with single quotes
 1. Once the file causing problems is fixed, open the Command Panel and run `Reload app without saving` and run the updater once more
