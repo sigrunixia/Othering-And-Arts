@@ -1,10 +1,8 @@
 # Building a Campaign
 
+[**Archives of the Hierarchy**](Archives%20of%20the%20Hierarchy.md)
 
-<--- [**Archives of the Hierarchy**](Archives%20of%20the%20Hierarchy.md)
-
-
-Welcome to Creating a Campaign. You may call me **#Name**.
+Welcome to Creating a Campaign. You may call me **Signor Fenix**.
 
 You'll find refreshments available in all dietary preferences in the back and gender neutral bathrooms to your left. Got Obsidian Installed? Got your guides? Excellent. Let's get started. 
 

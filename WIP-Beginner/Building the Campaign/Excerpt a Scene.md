@@ -58,7 +58,7 @@ You have the existing knowledge and ability to do the following:
 - [**Adding a Synopsis**](Building%20a%20Campaign.md#Adding%20a%20Synopsis)
 - [**How to Mark the Campaign or Component as Complete**](Building%20a%20Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
 - [**How to Add Notes**](Building%20a%20Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Tags and Aliases**](Building%20a%20Campaign.md#How%20to%20Add%20Tags%20and%20Aliases)
+- [**How to Add Frontmatter Tags and Aliases**](Building%20a%20Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
 - [**Access the Page Options Die**](Building%20a%20Campaign.md#Adding%20a%20Synopsis)
 - [**The Gallery Manager**](Creating%20an%20Adventure.md#The%20Gallery%20Manager)
 - [**Moving your Page**](Creating%20an%20Adventure.md#Moving%20your%20Page)

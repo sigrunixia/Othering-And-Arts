@@ -3,7 +3,7 @@ aliases: ["Campaigns", "Campaign"]
 ---
 # Archives of the Hierarchy
 
-<-- Link to [**The Brief Introduction to Terminology**](../../A%20Tome%20of%20the%20Reader%20Appears/The%20Brief%20Introduction%20to%20Terminology.md)
+[**The Brief Introduction to Terminology**](../A%20Tome%20of%20the%20Reader%20Appears/The%20Brief%20Introduction%20to%20Terminology.md)
 
 ## What is a Campaign?
 A campaign is a story that does not revolve the player characters. It is an unfinished story with which the player characters will interact, but the campaign plot itself will move on with, or without, the interaction of the player characters.

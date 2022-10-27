@@ -25,21 +25,27 @@ data:
     - path: "Z_Photo-Album/Banners/RPGM_Adventure_Rivendell_GiovanniFasulo_Flickr.jpg"
       caption: "Como Lake, Italy by Giovanni Fasulo on Flickr"
 ```
+
 ```RpgManager
 models: 
   header: true
 ```
----
-### Adventure Notes
- - 
 
 ---
+
+### Adventure Notes
+
+-
+
+---
+
 ```RpgManager
 models: 
   lists: 
     acts: 
       relationship: "hierarchy"
 ```
+
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 id: "2-0-1/1"

@@ -23,15 +23,20 @@ data:
   complete: false
   abtStage: 
 ```
+
 ```RpgManager
 models: 
   header: true
 ```
----
-### Act Notes
- - 
 
 ---
+
+### Act Notes
+
+-
+
+---
+
 ```RpgManager
 models: 
   lists: 
@@ -48,6 +53,7 @@ models:
     factions: 
       relationship: "unidirectional"
 ```
+
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 id: "4-0-1/1/1"

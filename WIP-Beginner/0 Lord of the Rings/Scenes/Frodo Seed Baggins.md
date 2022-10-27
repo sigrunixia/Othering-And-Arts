@@ -6,7 +6,7 @@ tags: []
 data: 
   synopsis: "Seed has disappeared, and in his place is Frodo. Frodo Seed Baggins, to be precise. Tree, Herb, and Cactus try to work out if Frodo is really Seed as Gandalf announces their arrival in Bag's End.  "
   complete: false
-  sessionId: ""
+  sessionId: 1
   action: "It would be a wise idea if the player characters could figure out what happened to Seed. "
   trigger: "Seed crosses paths with Frodo Baggins."
   date: "3018-10-20"
@@ -17,15 +17,20 @@ data:
   storyCircleStage: 
 
 ```
+
 ```RpgManager
 models: 
   header: true
 ```
----
-### Scene Notes
- - 
 
 ---
+
+### Scene Notes
+
+-
+
+---
+
 ```RpgManager
 models: 
   lists: 
@@ -44,6 +49,7 @@ models:
     events: 
       relationship: "unidirectional"
 ```
+
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 id: "8-0-1/1/1/1"

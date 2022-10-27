@@ -7,6 +7,7 @@ RPG Manager uses a [**Hierarchy**]() to separate and organize the details of a c
 The structure is fixed and cannot be customised.
 
 ## The Hierarchy
+
 > **Campaign** > **Adventures** > **Acts** > **Scenes**
 
 A [**Campaign**](../Building%20the%20Campaign/Archives%20of%20the%20Hierarchy.md) is an overarching plot which does not involve the player characters directly.
@@ -17,7 +18,7 @@ An [**Adventure**]() is self-contained story arcs that intersect the campaign's 
 
 >There can be multiple adventures in a campaign. You might equate them to a season in a television show.
 
-An [**Act**]() is a further branching of an adventure and provides a more organized way to manage the adventure's arc. Apart form being a logical branch of an adventure, an act has its own plot that supports the campaign's overarching plot. 
+An [**Act**]() is a further branching of an adventure and provides a more organized way to manage the adventure's arc. Apart form being a logical branch of an adventure, an act has its own plot that supports the campaign's overarching plot.
 
 > There can be multiple acts in an adventure. These would be the episodes in the season of the television show.
 
@@ -25,18 +26,13 @@ A [**Scene**]() is the smallest element in the plotting phase, and identifies a 
 
 > There can be multiple scenes in an act. These would be equivalent to long moments of dialogue or action between transitions or commercial breaks in an episode of a television show.
 
-A **Session** is the in-real-life game session you and your players will play. It technically is not a part of the hierarchy of plotting, but is used to help connect external game notes to in character, in-game events. It also acts as a container for grouping what Scenes happen in a session. 
-
-
+A **Session** is the in-real-life game session you and your players will play. It technically is not a part of the hierarchy of plotting, but is used to help connect external game notes to in character, in-game events. It also acts as a container for grouping what Scenes happen in a session.
 
 ## The Elements
 
-Where the **Hierarchy** and Sessions contain the plotting organization structure and overall story, the **Elements** contain the individuals, places, occasions, and other Worldbuilding items that help the campaign come to life. 
+Where the **Hierarchy** and Sessions contain the plotting organization structure and overall story, the **Elements** contain the individuals, places, occasions, and other Worldbuilding items that help the campaign come to life.
 
 A **Character** or **Player Character** is the character of a **Player**.
-
-
-
 
 ## Next Steps
 
@@ -46,5 +42,4 @@ A **Character** or **Player Character** is the character of a **Player**.
 >
 >"*Of course it was not. This is your final chance to leave. Forward or backwards. It matters not to me.*" *He's gone into the wall of symbols without so much as a backwards glance.*
 
-
-Each page will include standard forwards and backwards navigation from here on, but our dear Zaden does not know that. Now, Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building%20the%20Campaign/Archives%20of%20the%20Hierarchy.md). 
+Each page will include standard forwards and backwards navigation from here on, but our dear Zaden does not know that. Now, Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building%20the%20Campaign/Archives%20of%20the%20Hierarchy.md).

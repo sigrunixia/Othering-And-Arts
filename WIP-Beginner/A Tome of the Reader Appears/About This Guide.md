@@ -9,35 +9,36 @@ We will be using the setting, situation, and characters of the *Lord of the Ring
 First, let's sort you into one of four groups so you can know what to skip and what to pay close attention to in the guide.
 
 > *Oh you may not think I am pretty…. Err, wrong Universe. Ahem  
-> *A-lalla-lalla What can the Ents do for you? Little Readers*
+>*A-lalla-lalla What can the Ents do for you? Little Readers*
 
-R1: I am __Brand New__ and I __Do Not Need__ To Import Data!  
-Ent: Ta-runa. You are Little Orc. No? Oh. You are __#Seed__ 🌱.
+**R1**: I am __Brand New__ and I __Do Not Need__ To Import Data!  
+**Ent**: Ta-runa. You are Little Orc. No? Oh. You are __#Seed__ 🌱.
 
-R2: I __Need To Import__ an __In-Progress Campaign__!  
-Ent: You are __#Tree__ 🌲.
+**R2**: I __Need To Import__ an __In-Progress Campaign__!  
+**Ent**: You are __#Tree__ 🌲.
 
-R3: I __Need To Import__ a __Completed Campaign__ (and perhaps __In-Progress__ too…)  
-Ent: *__The Ent is very certain this one is an Orc disguised as a Reader.__*
+**R3**: I __Need To Import__ a __Completed Campaign__ (and perhaps __In-Progress__ too…)  
+**Ent**: *__The Ent is very certain this one is an Orc disguised as a Reader.__*
 
 > *"Not even three minutes in and you are already disturbing the peace." The voice of the librarian drones from above. "Roll for deception check." A pair of dice materialize in R3's hands.*
 
-R3: Do I just…?
+**R3**: Do I just…?
 
 >*"Throw them anywhere. I haven't all day."*
-
->*__DC 15__* __Deception Check__ : 1d20+2 -> [15]+2 -> __17__  
+>
+>*__DC 15__* __Deception Check__ : 1d20+2 -> 15+2 -> __17__  
+>
 >*The dice disappear.*
 
-Ent: Hmmm…You are __#Herb__ 🌿.  
-R3: *`Cool. I totally fooled that tree. Toasty campfire tonight.`*
+**Ent**: Hmmm…You are __#Herb__ 🌿.  
+**R3**: *`Cool. I totally fooled that tree. Toasty campfire tonight.`*
 
-R4: I'm Just __Here To Browse__.  
-Ent: HARUMPH! I knew you were "Little Orcs."" You are __#Cactus__ 🌵.
+**R4**: I'm Just __Here To Browse__.  
+**Ent**: HARUMPH! I knew you were "Little Orcs."" You are __#Cactus__ 🌵.
 
 > The Ent disappears with a pop.
 
-R3: "Thanks a lot, Cactmulch. There goes my campfire…"
+**R3**: "Thanks a lot, Cactmulch. There goes my campfire…"
 
 ## What You Will Learn
 
@@ -62,8 +63,6 @@ Please read these carefully as they were added to save you time, maximize your u
 
 ## Next Steps
 
-Onward to your next adventure in the [RPG Manager Quick Settings](RPG%20Manager%20Quick%20Settings.md).
+Onward to your next adventure in the [**RPG Manager Quick Settings**](RPG%20Manager%20Quick%20Settings.md).
 
 > *As you click the link, your team and accompying party is whisked away by a stream of magic and the pungent smell of wet earth.*
-
-

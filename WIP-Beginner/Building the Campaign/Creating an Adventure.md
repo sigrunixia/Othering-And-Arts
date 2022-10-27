@@ -1,6 +1,6 @@
 # Creating an Adventure
 
-<--- [**Building a Campaign**](Building%20a%20Campaign.md) 
+<--- [**Building a Campaign**](Building%20a%20Campaign.md)
 
 > *The party steps through the door to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
 > *Another step, and the ground feels…cold.. they have no shoes!*
@@ -13,7 +13,7 @@ Exactly the same as we created a Campaign, we are now going to create an Adventu
 
 - You will be asked to type in the Adventure Name: Type in `Journey to Rivendell`
 - As before, it will offer you the choice of template. For now, we will choose default.
-- Finally, it will ask you to choose a Campaign. Most of you will only have one, but if you have more and accidently create the adventure in the wrong campaign fret not! We'll show you how to fix it.
+- Finally, it will ask you to choose a Campaign. Most of you will only have one, but if you have more and accidentally create the adventure in the wrong campaign fret not! We'll show you how to fix it.
 
 ![RPGM_Adventure_Creation](../Z_Photo-Album/Guide/Hierarchy/Adventure/RPGM_Adventure_Creation.png)
 
@@ -24,18 +24,18 @@ Once you have created the Adventure Page, it will appear in one of two places:
 
 ## The Adventure Page
 
-The Adventure Page is laid out similarly to the Campaign Page. 
+The Adventure Page is laid out similarly to the Campaign Page.
 
 ![RPGM_Adventure_Page](../Z_Photo-Album/Guide/Hierarchy/Adventure/RPGM_Adventure_Page.png)
-
 
 ### Existing Features
 
 You have the been taught the knowledge and ought to have ability to do the following:
+
 - [**Adding a Synopsis**](Building%20a%20Campaign.md#Adding%20a%20Synopsis)
 - [**How to Mark the Campaign or Component as Complete**](Building%20a%20Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
 - [**How to Add Notes**](Building%20a%20Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Tags and Aliases**](Building%20a%20Campaign.md#How%20to%20Add%20Tags%20and%20Aliases)
+- [**How to Add Frontmatter Tags and Aliases**](Building%20a%20Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
 - [**Access the Page Options Die**](Building%20a%20Campaign.md#Adding%20a%20Synopsis)
 
 If you have a Synopsis ready, go ahead and add it now. We plan to make ours be the following:
@@ -56,10 +56,9 @@ Additionally, when you create an Adventure, your Campaign Page gains a new featu
 
 ![RPGM_Campaign_Adventure_Addition](../Z_Photo-Album/Guide/Hierarchy/Campaign/RPGM_Campaign_Adventure_Addition.png)
 
-
 #### The Gallery Manager
 
-Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in [**RPG Manager Quick Settings**](../../A%20Tome%20of%20the%20Reader%20Appears/RPG%20Manager%20Quick%20Settings.md) we had you choose your attachments folder? This is for the gallery manager.
+Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in [**RPG Manager Quick Settings**](../A%20Tome%20of%20the%20Reader%20Appears/RPG%20Manager%20Quick%20Settings.md) we had you choose your attachments folder? This is for the gallery manager.
 
 There are four ways that RPG Manager will govern images inside the gallery manager:
 
@@ -114,7 +113,6 @@ If you have multiple Campaigns, you will receive multiple options. Choose the ca
 
 Once you click **Update the Identifier**, the Adventure will move to the Campaign you selected.
 
-
 #### Manage Relationships
 
 Managing relationships is heavily reliant upon having the worldbilding elements of the campaign. Characters, locations, factions, and more. We will introduce how to tie in relationships together in its own section after we have added some of these elements later in the guide.
@@ -122,31 +120,31 @@ Managing relationships is heavily reliant upon having the worldbilding elements 
 ## Next Class
 
 > **Seed**: See Signore Fenice? That wasn't so bad.
-> 
+>
 > *Signore Fenice begins to ember.*
-> 
+>
 > **Cactus**: Oh needles he's going to kill us. Run.. Run!
-> 
+>
 > **Seed**: Nu uh. I ain't being bullied by this bird brained toodle.
-> 
-> *Signore Fenice begins to flare.* 
-> 
+>
+> *Signore Fenice begins to flare.*
+>
 > **Seed**: On second thought. Running seems good! Bai~!
 
 Signore Fenice bursts into a golden flame that coils around the the two remaining readers.
 
-"🌲 #Tree and 🌿 #Herb ." The voice takes on a musical quality that was not present before. "This is the time to add any additional Adventures you may need to add. Once that is done, join those two acorns before they hurt themselves." The flame darts upward towards the sky with an angry hiss, becoming the form of a serpent as it flies off toward the sun above. 
+"🌲 #Tree and 🌿 #Herb ." The voice takes on a musical quality that was not present before. "This is the time to add any additional Adventures you may need to add. Once that is done, join those two acorns before they hurt themselves." The flame darts upward towards the sky with an angry hiss, becoming the form of a serpent as it flies off toward the sun above.
 
 > **Herb**: Did you see that..?
-> 
+>
 > **Tree**: Yup.
-> 
-> **Herb**: Are we hallucinating? 
-> 
+>
+> **Herb**: Are we hallucinating?
+>
 > **Tree**: Nope.
-> 
+>
 > **Herb**: ... Got any shrooms growing on you?
-> 
+>
 > **Tree**: Branch off you knot! Grab the Tome and let's go.
 
-Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of [**Designing an Act**](Designing%20an%20Act.md). 
+Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of [**Designing an Act**](Designing%20an%20Act.md).
