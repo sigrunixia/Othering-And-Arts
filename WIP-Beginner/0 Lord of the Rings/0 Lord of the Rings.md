@@ -24,7 +24,7 @@ data:
   complete: true
   currentAdventureId: "2/1/1"
   currentActId: "4/1/1/1"
-  currentSessionId: 
+  currentSessionId: "16/1/1"
 ```
 ```RpgManager
 models: 

@@ -130,11 +130,40 @@ The  `Mark this Component as Completed` button will return.
 
 ### How to Add Notes
 
+Write. There you go!
 
+Okay, we'll be a bit more explanatory. In every Page that RPGM creates has a NOTES section, RPGM will leave that section open for you to write anything you need, or nothing. Its your space. All yours. Enjoy it. 
 
-### How to Add Tags and Aliases
+Maybe doodle in it?
 
+### How to Add Frontmatter Tags and Aliases
 
+Adding a Tag or an Alias(Aliases for Multiples), is the same as you do it for other notes within Obsidian. 
+
+#### Frontmatter Tags
+
+In YAML, everything has a key and a value. In our case, `tags` is the key and everything after that is our value. Let's say we want our campaign to have the tags `awesome`, `cool`, and `bravo`. With the limitation of frontmatter tags only being able to be recognized as tags if named tags, we are limited to these two options below. 
+
+```
+tags: [awesome, cool, bravo]
+tags: 
+- awesome
+- cool
+- bravo
+```
+
+If we wanted to only have one tag, named `Johnny`, then we gain another option.
+
+```
+tags: Johnny
+tags: [Johnny]
+tags:
+- Johnny
+```
+
+#### Alias and Aliases
+
+For Alias and Aliases, I recommend reading the [**Obsidian Documentation**](https://help.obsidian.md/How+to/Add+aliases+to+note) on the matter. 
 
 ## Next Class
 
