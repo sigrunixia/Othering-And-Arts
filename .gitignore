@@ -24,5 +24,8 @@ dlFolderLastChange
 pw.*
 *.kdb
 *.kdbx
-*.pfx
+*.pix
 *.key
+
+# Ignore VSCode Files
+.vscode
