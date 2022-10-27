@@ -187,7 +187,7 @@ Once you click on "Create Scenes for Act", the Builder will deposit all the newl
 
 ## Next Steps
 
-> #Tree and #Herb
+> 🌲 #Tree and 🌿 #Herb
 >
 > Here is your workhorse and what you will be spending the majority of your inport time on as far as campaign importing outside of characters. Go ahead, and outline all of your scenes for the Acts you have created, and start filling in the in-progress ones that are created.
 >
