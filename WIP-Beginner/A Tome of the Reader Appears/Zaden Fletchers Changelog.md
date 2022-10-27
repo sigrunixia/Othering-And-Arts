@@ -1,6 +1,6 @@
 # Zaden Fletcher
 
-![Zaden_Fletchers](../Z_Photo-Album/Guide/Zaden_Fletchers.png)
+![Zaden_Fletchers](../Z_Photo-Album/Guide/Storytelling/Zaden_Fletchers.jpeg)
 ```
 Zaden Fletcher, the insomniac wizard librarian, never wanted to be an insomniac, nor a wizard, nor a librarian. Yet life was not about what you wanted, but whatever number that cursed die landed on when when the Greatwyrms tooth cut through it. And so, his dreams of being a roasted carrot-on-a-stick vendor at football games were dashed.
 
