@@ -12,9 +12,8 @@ The guide to utilizing RPG Manager and the associated test vault utilizes the wo
 
 All rights to the story, the characters, the world, elements, and any other attributing figures created by the Tolkiens, remain with the Tolkiens and their Estate as well as Harper Collins Publishing. Media and merchandizing rights for the Lord of the Rings trilogy and The Hobbit were recently purchased by Embracer Group, however it is under contention with Warner Brothers and the Saul Zaentz Co., which is a long winded way of saying that none of us on this Github own those rights or intend to take those rights. 
 
-
 All rights to RPG Manager are distributed under the MIT License as stated in [Osidian RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager).  
 
-All rights to the content in the associated documentation are distributed under the MIT license. 
+All rights to the content in the associated documentation that do not belong to the aforemention parties, are distributed under the MIT license. 
 
 All images used unless stated otherwise below the image, are sourced from [Neural.love](https://neural.love) and licensed under [Creative Commons 1.0](https://creativecommons.org/licenses/by/1.0/). 
