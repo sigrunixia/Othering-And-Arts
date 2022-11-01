@@ -22,7 +22,7 @@ From here, the show splits off. We see two journeys; the living and the dead.
 
 For the journey of the dead elder, the emanation of death and the procession guide the elder on the journey to the next stage of their journey in post-life. Different tribes have different beliefs. Some believe they return to a spirit form, some to to the earth, some in reincarnation, some to an underworld and afterlife. This procession leaves me to think this show is portraying the underworld and afterlife version, while also portraying the overarching themes about the close extinction of the tribal nations. I'll need more time to analyze the details of the characters chosen.
 
-At the same time, the journey of those who remain- the living as the bear. Yet not is all well for the living. The bear looks for fish and there are none. While wandering, it collapses and falls asleep, where it dreams of catching fish. In its dream, it catches  the fish. As it dreams, it dies, and the winged serpents of the earth feast on the remains of the bear.
+At the same time, the journey of those who remain- the living as the bear. Yet not is all well for the living. The bear looks for fish and there are none. While wandering, it collapses and falls asleep, where it dreams of catching fish. In its dream, it catches  the fish. As it dreams, it dies, and the winged serpents of the earth (Likely [Great Horned Serpents](https://en.wikipedia.org/wiki/Horned_Serpent#In_Native_American_cultures)) feast on the remains of the bear.
 
 ### Reunited
 
