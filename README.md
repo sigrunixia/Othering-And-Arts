@@ -1,6 +1,6 @@
 # Othering-And-Arts
 
-Currently WIP for Documentation and Test Vault for [Osidian RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager), because a branch is not big enough for this!
+Currently WIP for Documentation and Test Vault for [Obsidian RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager), because a branch is not big enough for this!
 
 In the future, it'll be something else. 
 
