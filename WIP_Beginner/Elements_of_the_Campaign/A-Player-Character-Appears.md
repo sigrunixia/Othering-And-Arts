@@ -72,7 +72,17 @@ For Samwise Gamgee, we know he is a Gardener and loves Potatoes, so we're going 
 
 #### Date of Birth
 
-The Date of Birth interfaces with the date on the Campaign Page, and the Current Date set by the Scene Pages, to coordinate the current
+The Date of Birth interfaces with the Campaign Date on the Campaign Page, and the Current Date set by the Scene Pages, to calculate the character's current age.
+
+Much like setting the Campaign Date, click on the bar next to **Birth** to open a calendar to select the Date of Birth.
+
+![RPGM_Elements_Character_DOB](../Zadens_Photo_Album/Guide/Elements/Character/RPGM_Elements_Character_DOB.png)
+
+Once that is selected, two new fields appear.
+
+**Status** will display if the character is **Alive** or **Dead**.
+
+**Age** will display the character's calculated age based on the most recent **Current Date**. 
 
 
 #### Date of Death

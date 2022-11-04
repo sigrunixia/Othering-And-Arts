@@ -6,7 +6,7 @@ tags: []
 data: 
   synopsis: 
   complete: false
-  dob: 
+  dob: "2980-04-06"
   death: 
   goals: "Grow the biggest Potato in the history of The Shire.\n\nMeet a Tree-Man.\n\nMarry Rosie.\n\nKeep Mr. Frodo out of trouble.\n\nNot necessarily in that order."
   pronoun: 
