@@ -1,6 +1,5 @@
 ---
 alias: [The Journey to Rivendell]
-tags: ["LOTR", "Adventure", "TTRPG"]
 ---
 ```RpgManagerData
 plot: 

@@ -25,9 +25,9 @@ This will be a familiar sequence by now. In the same way you create any other Hi
 
 The Session Note is laid out in a familiar way as the other Hierarchy pages, but it does not share in their Hierarchy. Additionally, we have gained some new features.
 
-- IRL Date: The ability to track the days we have In Real Life Sessions
-- Expanded Notes
-- Target Duration: Choose a target duration for sessions.
+- **IRL Date**: The ability to track the days we have In Real Life Sessions
+- **Expanded Notes**
+- **Target Duration**: Choose a target duration for sessions.
   - This also has further, expanded functionality if Scene Analyser is enabled, but can be used as a general gauge without it.
 
 ![RPGM_Session_Page](../Zadens_Photo_Album/Guide/Hierarchy/Session/RPGM_Session_Page.png)

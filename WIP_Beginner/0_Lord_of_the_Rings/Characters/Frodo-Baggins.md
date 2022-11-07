@@ -1,5 +1,5 @@
 ---
-alias: []
+alias: [Frodo Baggins]
 tags: [Seed]
 ---
 ```RpgManagerData

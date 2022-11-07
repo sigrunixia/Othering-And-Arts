@@ -1,6 +1,5 @@
 ---
-alias: []
-tags: []
+alias: ["Bilbo's Birthday Bash"]
 ---
 ```RpgManagerData
 plot: 

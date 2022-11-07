@@ -1,5 +1,5 @@
 ---
-alias: ["The Nine", "Nine Riders"]
+alias: ["The Nine", "Nine Riders", "Black Riders"]
 ---
 # The Black Riders
 
