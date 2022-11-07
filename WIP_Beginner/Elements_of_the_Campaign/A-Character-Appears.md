@@ -33,6 +33,9 @@ You know what to do. Let's go to the normal RPG-Manager menu and choose **`Creat
 
 - Pick the Campaign you want this Act to be created in. We are using **`0 Lord of the Rings`**.
 
+
+#redotoosmall
+
 ![RPGM_Elements_Create_Character](../Zadens_Photo_Album/Guide/Elements/Character/RPGM_Elements_Create_Character.png)
 
 ## The Character Page
@@ -46,7 +49,7 @@ You have the existing knowledge and ability to do the following:
 - [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
 - [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
 - [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)]
+- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
 - [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
 - [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
 
@@ -109,6 +112,7 @@ To select a Pronoun, click on the box next to Pronoun and select your pronoun. I
 The Campaign Page has updated to begin listing your Player Characters in the Campaign.
 
 ![RPGM_Elements_Character_Campaign](../Zadens_Photo_Album/Guide/Elements/Character/RPGM_Elements_Character_Campaign.png)
+
 As of the 3.2 #Release there is not a way to filter out Player Characters shown on this page.
 
 ## Next Steps
@@ -123,7 +127,7 @@ As of the 3.2 #Release there is not a way to filter out Player Characters shown 
 >
 > **Tree**: I said stay away!
 >
-> **Tree** charges forward, branch in hand. A heavy swing, but the branch sinks right through Sam and Tree finds themselves colliding into the gardener. They fall together in a heap.
+> **Tree** charges forward, branch in hand. A heavy swing, but the branch sinks right through Sam, and Tree finds themselves colliding into the gardener. They fall together in a heap of dirt and flowers.
 
 ---
 
