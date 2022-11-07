@@ -1,3 +1,6 @@
+---
+alias: [RPG Manager Quick Settings]
+---
 # RPG Manager Quick Settings
 
 *A portal from [**About This Guide**](About-This-Guide.md) forms nearby as it waits for its hosts.*

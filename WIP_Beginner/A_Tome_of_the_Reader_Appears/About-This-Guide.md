@@ -1,3 +1,6 @@
+---
+alias: [About this Guide]
+---
 # About This Guide
 
 Welcome to the RPG Manager Getting Started Guide for Beginners. Do not let the beginner language for you, this guide is for new users of the plugin as much as it is for those who have been using it since day one. This is guide to read up on not only see how to adjust a campaign you have created, but to see how to use a new feature that is added to the plugin.
@@ -11,14 +14,14 @@ First, let's sort you into one of four groups so you can know what to skip and w
 > *Oh you may not think I am pretty…. Err, wrong Universe. Ahem  
 >A-lalla-lalla What can the Ents do for you? Little Readers
 
-**R1**: I am __Brand New__ and I __Do Not Need__ To Import Data!  
-**Ent**: Ta-runa. You are Little Orc. No? Oh. You are __#Seed__ 🌱.
+**R1**: I am **Brand New** and I **Do Not Need** To Import Data!  
+**Ent**: Ta-runa. You are Little Orc. No? Oh. You are **#Seed** 🌱.
 
-**R2**: I __Need To Import__ an __In-Progress Campaign__!  
-**Ent**: You are __#Tree__ 🌲.
+**R2**: I **Need To Import** an **In-Progress Campaign**!  
+**Ent**: You are **#Tree** 🌲.
 
-**R3**: I __Need To Import__ a __Completed Campaign__ (and perhaps __In-Progress__ too…)  
-**Ent**: *__The Ent is very certain this one is an Orc disguised as a Reader.__*
+**R3**: I **Need To Import** a **Completed Campaign** (and perhaps **In-Progress** too…)  
+**Ent**: ***The Ent is very certain this one is an Orc disguised as a Reader.***
 
 > *"Not even three minutes in and you are already disturbing the peace." The voice of the librarian drones from above. "Roll for deception check." A pair of dice materialize in R3's hands.*
 
@@ -26,15 +29,15 @@ First, let's sort you into one of four groups so you can know what to skip and w
 
 >*"Throw them anywhere. I haven't all day."*
 >
-> *__DC 15__* __Deception Check__ : 1d20+2 -> 15+2 -> __17__  
+> ***DC 15*** **Deception Check** : 1d20+2 -> 15+2 -> **17**  
 >
 >*The dice disappear.*
 
-**Ent**: Hmmm…You are __#Herb__ 🌿.  
+**Ent**: Hmmm…You are **#Herb** 🌿.  
 **R3**: *`Cool. I totally fooled that tree. Toasty campfire tonight.`*
 
-**R4**: I'm Just __Here To Browse__.  
-**Ent**: HARUMPH! I knew you were "Little Orcs."" You are __#Cactus__ 🌵.
+**R4**: I'm Just **Here To Browse**.  
+**Ent**: HARUMPH! I knew you were "Little Orcs."" You are **#Cactus** 🌵.
 
 > The Ent disappears with a pop.
 
@@ -55,9 +58,9 @@ This guide will teach you step-by-step how to do the following:
 
 Due to this guide addressing three use cases (No Import, In Progress, Completed), you will notice some pages contain a small blurb or callout that looks like the following:
 
->🌲 __Tree__: Do not proceed to the next step yet. Go back, and repeat steps 1 through 2 for each location you want to add. When completed, you may move onto the next step.
+>🌲 **Tree**: Do not proceed to the next step yet. Go back, and repeat steps 1 through 2 for each location you want to add. When completed, you may move onto the next step.
 >
-> 🌱 __Seed__: We suggest skipping this section for now and coming back when you are ready to add more things.
+> 🌱 **Seed**: We suggest skipping this section for now and coming back when you are ready to add more things.
 
 Please read these carefully as they were added to save you time, maximize your understanding, and get you playing faster.
 

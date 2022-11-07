@@ -1,3 +1,7 @@
+---
+alias: [The Brief Introduction to Terminology]
+---
+
 # The Brief Introduction to Terminology
 
 > The party returns to a library not unlike the one they came from. Before them, a book lays open. A nearby mirror shimmers and becomes a doorway to [**RPG Manager Quick Settings**](RPG-Manager-Quick-Settings.md)
@@ -41,8 +45,5 @@ A **Character** or **Player Character** is the character of a **Player**.
 > **Tree**: "That was not there-"
 >
 >"*Of course it was not. This is your final chance to leave. Forward or backwards. It matters not to me.*" *He's gone into the wall of symbols without so much as a backwards glance.*
-
-
-
-
+>
 > Each page will include forwards and backwards navigation from here on, but our dear Zaden does not know that. Now, Readers of our Tome, when you are ready to create your campaign, proceed to the [**Archives of the Campaigns**](../Building_the_Campaign/Archives-of-the-Hierarchy.md).
