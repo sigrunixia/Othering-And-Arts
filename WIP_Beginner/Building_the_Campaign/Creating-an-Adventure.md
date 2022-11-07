@@ -1,8 +1,11 @@
+---
+alias: [Creating an Adventure]
+---
+
 # Creating an Adventure
 
-<--- [**Building a Campaign**](Building-a-Campaign.md)
-
-> *The party steps through the door to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
+> *The party steps through the door of [**Building a Campaign**](Building-a-Campaign.md) to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
+>
 > *Another step, and the ground feels…cold.. they have no shoes!*
 
 An Adventure is a standalone story arc within the Campaign. The adventure should ideally have a story incentive to encourage player characters to partake in the story, but as an arc it should have a beginning, a middle, and an end.
@@ -32,11 +35,10 @@ The Adventure Page is laid out similarly to the Campaign Page.
 
 You have the been taught the knowledge and ought to have ability to do the following:
 
-- [**Adding a Synopsis**](Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
-- [**Access the Page Options Die**](Building-a-Campaign.md#Adding%20a%20Synopsis)
+- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
+- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
+- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
+- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
 
 If you have a Synopsis ready, go ahead and add it now. We plan to make ours be the following:
 
@@ -147,4 +149,4 @@ Signore Fenice bursts into a golden flame that coils around the the two remainin
 >
 > **Tree**: Branch off you knot! Grab the Tome and let's go.
 
-Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of [**Designing an Act**](Designing%20an%20Act.md).
+Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of [**Designing an Act**](Designing-an-Act.md).

@@ -1,7 +1,8 @@
 ---
-alias: []
-tags: []
+alias: [Lobelia Sackville-Baggins]
 ---
+# Lobelia Sackville-Baggins
+
 ```RpgManagerData
 data: 
   synopsis: "Lobelia is famous in The Shire for her temper and her desire for Bag End. "
@@ -13,7 +14,12 @@ data:
   images: 
     - path: "Zadens_Photo_Album/Non_Player_Characters/Halflings/Lobelia.jpg"
       caption: "One way or another, that hovel will be mine."
+relationships: 
+  - type: "unidirectional"
+    path: "0_Lord_of_the_Rings/Characters/Samwise-Gamgee.md"
+    description: 
 ```
+
 ```RpgManager
 models: 
   header: true
@@ -28,15 +34,19 @@ models:
     events: 
     clues: 
 ```
+
 ---
-### Non Player Character Notes
- - This character is expected to pass away on 3020-11-23
+
+## Non Player Character Notes
+
+- This character is expected to pass away on 3020-11-23
 
 ### Non Player Character Story
- - Lobelia is a distant relative of Bilbo Baggins, and believes as the closest full-blooded Baggin's that Bag End should be hers. When given any oppurtunity, she is not above to stealing from the property, and has become adept at dodging the launched potatoes of [**Samwise-Gamgee**](../Characters/Samwise-Gamgee.md)
 
+- Lobelia is a distant relative of Bilbo Baggins, and believes as the closest full-blooded Baggin's that Bag End should be hers. When given any oppurtunity, she is not above to stealing from the property, and has become adept at dodging the launched potatoes of [**Samwise-Gamgee**](../Characters/Samwise-Gamgee.md)
 
 ---
+
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 id: "64-0-1"

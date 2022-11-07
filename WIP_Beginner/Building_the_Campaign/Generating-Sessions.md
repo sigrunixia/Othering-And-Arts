@@ -1,8 +1,11 @@
+---
+alias: [Generating Sessions]
+---
 # Generating Sessions
 
 > Fireworks fly and coo in wonder, but Herb, Cactus, and Tree hardly notice the ringing in their ears as they stare at the back of Frodo's head. There was no sign of Seed anywhere, except for the little leaf sticking out the top of Frodo's curls.
 >
->"We've just crossed the [**Forging Many Scenes**](Forging%20Many%20Scenes.md)," Gandalf told them. "Next up, Bag End. "
+>"We've just crossed the [**Forging Many Scenes**](Forging-Many-Scenes.md)," Gandalf told them. "Next up, Bag End. "
 
 The final yet unofficial piece of the Hierarchy is the Session Note, or Session Page.
 
@@ -33,19 +36,12 @@ The Session Note is laid out in a familiar way as the other Hierarchy pages, but
 
 You have the existing knowledge and ability to do the following:
 
-- [**Adding a Synopsis**](Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
-- [**Access the Page Options Die**](Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**The Gallery Manager**](Creating%20an%20Adventure.md#The%20Gallery%20Manager)
-- [**Moving your Page**](Creating%20an%20Adventure.md#Moving%20your%20Page)
-
-### Existing Features in Stand-By
-
-- [**Manage Relationships**](Creating%20an%20Adventure.md#Manage%20Relationships)
-
-### New Features
+- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
+- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
+- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
+- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)]
+- [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
+- [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
 
 With every new module, RPG Manager's functionality is expanded a little bit more. The Session Note page is no exception.
 
@@ -95,12 +91,13 @@ At the bottom of the Session Notes page, you may have noticed the following text
 > - **Wish**: *This is a question you ask your players.*
 > - **Rose**: *This is a question you ask your players.*
 
-A **Wish** is a broad question. Some examples are: 
-- What did you wish changed in the session? 
-- What would you have done different? 
+A **Wish** is a broad question. Some examples are:
+
+- What did you wish changed in the session?
+- What would you have done different?
 - What outcomes were you hoping for?
 
-These questions are meant to have your players remain free agents in the campaign, and give them internalized ideas (which of course they will not share with you), for the session next time. Additionally, it provides feedback on how they are feeling in response to the story, and if you as a storyteller are needing to make any changes, or stay the course. 
+These questions are meant to have your players remain free agents in the campaign, and give them internalized ideas (which of course they will not share with you), for the session next time. Additionally, it provides feedback on how they are feeling in response to the story, and if you as a storyteller are needing to make any changes, or stay the course.
 
 If this model does not work for you, you can change the meaning of Wish to mean anything you.. Wish!
 
@@ -124,4 +121,4 @@ In essence, who do the other players think was the Rose of the session? This is 
 >
 >"Oh goodness herbage. I think they need some water." Gandalf remarked. "Mind getting that Frodo?"
 
-We are done with the Hierarchy. The nitty gritty. The irksome murksome. Now, it is the fun and the games. The characters, the locations, the plots, the world! Get ready to make some halflings, wizards, orcs, places, and events. Head to [**A Player Character Appears**](../Elements_of_the_Campaign/A-Player-Character-Appears.md)
+We are done with the Hierarchy. The nitty gritty. The irksome murksome. Now, it is the fun and the games. The characters, the locations, the plots, the world! Get ready to make some halflings, wizards, orcs, places, and events. Head to [**A Player Character Appears**](../Elements_of_the_Campaign/A-Character-Appears.md)
