@@ -12,7 +12,7 @@ data:
   pronoun: "he"
   images: 
     - path: "Zadens_Photo_Album/Characters/Samwise.jpg"
-      caption: "I'm a gardener, a great cook, and I have a frying pan and not afraid to use it!"
+      caption: "I'm a gardener of the #Tree, a great cook, and I have a frying pan and not afraid to use it!"
 relationships: []
 ```
 

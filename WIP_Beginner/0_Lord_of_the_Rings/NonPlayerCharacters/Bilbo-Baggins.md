@@ -14,6 +14,10 @@ data:
   images: 
     - path: "Zadens_Photo_Album/Non_Player_Characters/Halflings/Bilbo.jpg"
       caption: "I feel the call for one more adventure."
+relationships: 
+  - type: "bidirectional"
+    path: "0_Lord_of_the_Rings/Factions/Baggins-Family.md"
+    description: 
 ```
 
 ```RpgManager

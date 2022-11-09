@@ -34,8 +34,6 @@ You know what to do. Let's go to the normal RPG-Manager menu and choose **`Creat
 - Pick the Campaign you want this Act to be created in. We are using **`0 Lord of the Rings`**.
 
 
-#redotoosmall
-
 ![RPGM_Elements_Create_Character](../Zadens_Photo_Album/Guide/Elements/Character/RPGM_Elements_Create_Character.png)
 
 ## The Character Page

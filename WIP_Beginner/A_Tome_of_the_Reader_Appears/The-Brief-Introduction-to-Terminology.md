@@ -38,6 +38,10 @@ Where the **Hierarchy** and Sessions contain the plotting organization structure
 
 A **Character** or **Player Character** is the character of a **Player**.
 
+A **Non-Player Character** is an **NPC** and is usually controlled by the **Game Master** (GM).
+
+A **Game Master** is the storyteller of the game and is sometimes referred to as the **Dungeon Master** (DM).
+
 ## Next Steps
 
 > *The librarian head appears from the runes inscribed on the door before them. With a gnarled, luminescent sucker, it points towards a rainbow door behind them.*

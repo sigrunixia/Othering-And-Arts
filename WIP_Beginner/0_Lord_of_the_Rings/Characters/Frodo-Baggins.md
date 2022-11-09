@@ -1,6 +1,5 @@
 ---
 alias: [Frodo Baggins]
-tags: [Seed]
 ---
 ```RpgManagerData
 data: 
@@ -13,6 +12,10 @@ data:
   images: 
     - path: "Zadens_Photo_Album/Characters/Frodo.jpg"
       caption: "I may be a #Seed, but I bounce back the fastest."
+relationships: 
+  - type: "bidirectional"
+    path: "0_Lord_of_the_Rings/Factions/Baggins-Family.md"
+    description: 
 ```
 ```RpgManager
 models: 

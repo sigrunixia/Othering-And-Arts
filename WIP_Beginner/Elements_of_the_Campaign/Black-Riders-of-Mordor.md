@@ -7,7 +7,7 @@ alias: [Black Riders of Mordor]
 >
 > ![Ignominious_Small](../Zadens_Photo_Album/Guide/Storytelling/Ignominious_Small.png)
 >
-> *The Skeletal Cryomancer casts a scornful gaze at nine riders, frozen in blocks of ice and time. "Awaken, otiose drongos! We have use for you."  As the ice begins to crack, he snaps a finger nine times. Each snap produces an icicle that hovers nearby. "Follow the shards. It will lead you to your your quarry, whom wears a most unique bijou on their finger."*
+> *The Skeletal Cryomancer casts a scornful gaze at nine riders, frozen in blocks of ice and time. "Awaken, otiose drongos! We have use for you."  As the ice begins to crack, he snaps a finger nine times. Each snap produces an icicle that hovers nearby. "Follow the shards. It will lead you to your quarry, whom wears a most unique bijou on their finger."*
 >
 > *The uniform shrieks of rage shattered the ice.*
 
@@ -51,4 +51,4 @@ You have the existing knowledge and ability to do the following:
 
 > 🌲 #Tree and 🌿 #Herb, if you have any further factions you wish to create, go ahead and create them even if you have not created any characters for that faction yet.
 >
-> 🌱 #Seed and #Cactus, proceed to [**From Bag's End, to The Shire**](From-Bags-End-to-The-Shire.md).
+> 🌱 #Seed and 🌵 #Cactus, proceed to [**From Bag End, to The Shire**](From-Bag-End-to-The-Shire.md).
