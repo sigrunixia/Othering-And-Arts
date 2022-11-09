@@ -14,6 +14,6 @@ All rights to the story, the characters, the world, elements, and any other attr
 
 All rights to RPG Manager are distributed under the MIT License as stated in [Obsidian RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager).  
 
-All rights to the content in the associated documentation that do not belong to the aforemention parties, are distributed under the MIT license. 
+All rights to the content in the associated documentation that do not belong to the aforemention parties, are distributed under the [Creative Commons 1.0](https://creativecommons.org/licenses/by/1.0/). 
 
 All images used unless stated otherwise below the image, are sourced from [Neural.love](https://neural.love) and licensed under [Creative Commons 1.0](https://creativecommons.org/licenses/by/1.0/). 
