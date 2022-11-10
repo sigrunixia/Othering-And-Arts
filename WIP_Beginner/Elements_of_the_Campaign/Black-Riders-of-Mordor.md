@@ -3,7 +3,7 @@ alias: [Black Riders of Mordor]
 ---
 # The Black Riders of Mordor
 
-> *Many, many miles away from the events in* [**A Character Appears**](A-Character-Appears.md)...
+> *Many, many miles away from the events in* **[A Character Appears](A-Character-Appears.md)**...
 >
 > ![Ignominious_Small](../Zadens_Photo_Album/Guide/Storytelling/Ignominious_Small.png)
 >
@@ -36,12 +36,12 @@ You may notice there is nothing new on this page. This is true, for the moment. 
 
 You have the existing knowledge and ability to do the following:
 
-- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)]
-- [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
-- [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
+- **[Adding a Synopsis](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)**
+- **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
+- **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
+- **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**]
+- **[The Gallery Manager](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)**
+- **[Moving your Page](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)**
 
 ### The Black Riders
 
@@ -51,4 +51,4 @@ You have the existing knowledge and ability to do the following:
 
 > 🌲 #Tree and 🌿 #Herb, if you have any further factions you wish to create, go ahead and create them even if you have not created any characters for that faction yet.
 >
-> 🌱 #Seed and 🌵 #Cactus, proceed to [**From Bag End, to The Shire**](From-Bag-End-to-The-Shire.md).
+> 🌱 #Seed and 🌵 #Cactus, proceed to **[From Bag End, to The Shire](From-Bag-End-to-The-Shire.md)**.

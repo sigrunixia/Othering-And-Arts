@@ -26,8 +26,8 @@ models:
 ```
 ---
 ### Location Details
- - [**Samwise Gamgee**](../Characters/Samwise-Gamgee.md) became a gardener for Bag End after his father, Hamfast, passed the title and responsibilities onto him. 
- - Bag End was created by [**Bilbo Baggins**](../NonPlayerCharacters/Bilbo-Baggins.md)'s Father, Bungo. 
+ - **[Samwise Gamgee](../Characters/Samwise-Gamgee.md)** became a gardener for Bag End after his father, Hamfast, passed the title and responsibilities onto him. 
+ - Bag End was created by **[Bilbo Baggins](../NonPlayerCharacters/Bilbo-Baggins.md)**'s Father, Bungo. 
 
 ---
 ```RpgManagerID

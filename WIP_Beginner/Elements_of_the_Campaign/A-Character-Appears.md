@@ -9,15 +9,15 @@ alias: [A Character Appears]
 >
 >"You're lucky I respect you Mr. Gandalf Sir." Samwise said as he gently watered the hobbits. "You don't see me telling you how to wave your magic around."
 >
-> Frodo ducked behind a door inscribed with the words [**Generating Sessions**](../Building_the_Campaign/Generating-Sessions.md) and started laughing.
+> Frodo ducked behind a door inscribed with the words **[Generating Sessions](../Building_the_Campaign/Generating-Sessions.md)** and started laughing.
 
-Welcome to the Elements of a Campaign. Unlike the [**Archives of the Hierarchy**](../Building_the_Campaign/Archives-of-the-Hierarchy.md), we're going to dive on in and explain how to build each Element as much of the existing knowledge you have gained applies here as well.
+Welcome to the Elements of a Campaign. Unlike the **[Archives of the Hierarchy](../Building_the_Campaign/Archives-of-the-Hierarchy.md)**, we're going to dive on in and explain how to build each Element as much of the existing knowledge you have gained applies here as well.
 
 We'll be going over how to make Player Characters and Non-Player Characters as they have the same options and creation process.
 
 ## What is a Player Character?
 
-A [**Player-Character**](../Zadens_Glossary/Player-Character.md) (PC) is a character who is directly or indirectly controlled by a player, and sometimes a character controlled by the Game Master (GM). They are the not the center of the campaign, but can be considered some of the characters with the most agency.
+A **[Player-Character](../Zadens_Glossary/Player-Character.md) (PC) is a character who is directly or indirectly controlled by a player, and sometimes a character controlled by the Game Master (GM)**. They are the not the center of the campaign, but can be considered some of the characters with the most agency.
 
 ## What is a Non-Player Character?
 
@@ -44,12 +44,12 @@ You know what to do. Let's go to the normal RPG-Manager menu and choose **`Creat
 
 You have the existing knowledge and ability to do the following:
 
-- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
-- [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
-- [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
+- **[Adding a Synopsis](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)**
+- **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
+- **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
+- **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
+- **[The Gallery Manager](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)**
+- **[Moving your Page](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)**
 
 ### New Features
 
@@ -101,7 +101,7 @@ If you make a mistake, and need to mark a character as alive again, select the D
 
 A Player Character and Non-Player Character can choose to select a personal pronoun. This has no functional bearing on how RPG-Manager operates, but it may change how some text is displayed in reference to that character.
 
-To select a Pronoun, click on the box next to Pronoun and select your pronoun. If the Pronoun you use is not listed, please create a new [**Feature Request**](https://github.com/carlonicora/obsidian-rpg-manager/issues/new/choose).
+To select a Pronoun, click on the box next to Pronoun and select your pronoun. If the Pronoun you use is not listed, please create a new **[Feature Request](https://github.com/carlonicora/obsidian-rpg-manager/issues/new/choose)**.
 
 ![RPGM_Elements_Character_Pronouns](../Zadens_Photo_Album/Guide/Elements/Character/RPGM_Elements_Character_Pronouns.png)
 
@@ -131,4 +131,4 @@ As of the 3.2 #Release there is not a way to filter out Player Characters shown 
 
 > 🌲 #Tree and 🌿 #Herb, if you have any more player characters, now would be a great time to go ahead and make them. You might want to wait on Non-Player Characters until we go over Relationships.
 >
-> 🌱 #Seed and #Cactus, feel free to move on ahead to [**Black Riders of Mordor**](Black-Riders-of-Mordor.md).
+> 🌱 #Seed and #Cactus, feel free to move on ahead to **[Black Riders of Mordor](Black-Riders-of-Mordor.md)**.

@@ -4,7 +4,7 @@ alias: [Creating an Adventure]
 
 # Creating an Adventure
 
-> *The party steps through the door of [**Building a Campaign**](Building-a-Campaign.md) to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
+> *The party steps through the door of **[Building a Campaign](Building-a-Campaign.md)** to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
 >
 > *Another step, and the ground feels…cold.. they have no shoes!*
 
@@ -35,16 +35,16 @@ The Adventure Page is laid out similarly to the Campaign Page.
 
 You have the been taught the knowledge and ought to have ability to do the following:
 
-- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
+- **[Adding a Synopsis](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)**
+- **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
+- **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
+- **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
 
 If you have a Synopsis ready, go ahead and add it now. We plan to make ours be the following:
 
 > What was supposed to be the Celebration of Bilbo Baggins' 111th Birthday Party turns into a an escape for their lives as Frodo, Sam, Merry, and Pippin evade the Black Riders who search for the One Ring. Under the protection of a Ranger named Strider, they make their way to Rivendell, the greatest and last home city of the Elves.
 
-If you cannot remember how to add a Synopsis, refer back to [**Adding a Synopsis**](Building-a-Campaign.md#Adding%20a%20Synopsis).
+If you cannot remember how to add a Synopsis, refer back to **[Adding a Synopsis](Building-a-Campaign.md#Adding%20a%20Synopsis)**.
 
 Now, we are going to add our first image.
 
@@ -60,7 +60,7 @@ Additionally, when you create an Adventure, your Campaign Page gains a new featu
 
 #### The Gallery Manager
 
-Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in [**RPG Manager Quick Settings**](../A_Tome_of_the_Reader_Appears/RPG-Manager-Quick-Settings.md) we had you choose your attachments folder? This is for the gallery manager.
+Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in **[RPG Manager Quick Settings](../A_Tome_of_the_Reader_Appears/RPG-Manager-Quick-Settings.md)** we had you choose your attachments folder? This is for the gallery manager.
 
 There are four ways that RPG Manager will govern images inside the gallery manager:
 
@@ -149,4 +149,4 @@ Signore Fenice bursts into a golden flame that coils around the the two remainin
 >
 > **Tree**: Branch off you knot! Grab the Tome and let's go.
 
-Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of [**Designing an Act**](Designing-an-Act.md).
+Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of **[Designing an Act](Designing-an-Act.md)**.

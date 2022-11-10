@@ -5,7 +5,7 @@ alias: [Forging Many Scenes]
 
 > **Note**: The Scene Builder will be released in **RPG-Manager 3.2**.
 >
-> A layer of golden dust settles around the members of the party who arrive in this forge. From the cart in [**Excerpt a Scene**](Excerpt-a-Scene.md), it looked like your standard blacksmith shop and forge but inside, everything is in flux, fading in and out of view.
+> A layer of golden dust settles around the members of the party who arrive in this forge. From the cart in **[Excerpt a Scene](Excerpt-a-Scene.md)**, it looked like your standard blacksmith shop and forge but inside, everything is in flux, fading in and out of view.
 
 ## What is the Scene Builder?
 
@@ -184,7 +184,7 @@ Now that you have a more in-depth idea of how the Title, Goal, Type, and Excitem
 
 Here is an example screenshot of what it may look like, with also a sneak preview of the **Scene Analyser**.
 
-![**RPGM_Scene_Builder_Analyser**](../Zadens_Photo_Album/Guide/Hierarchy/Scene/RPGM_Scene_Builder_Analyser.png)
+!**[RPGM_Scene_Builder_Analyser](../Zadens_Photo_Album/Guide/Hierarchy/Scene/RPGM_Scene_Builder_Analyser.png)**
 
 Once you click on "Create Scenes for Act", the Builder will deposit all the newly created Scenes within the Campaign Folder, or Scenes Folder depending on your settings, with the naming convention of  `Act(Number)Scene(Number) - SceneTitle`.
 
@@ -198,4 +198,4 @@ Once you click on "Create Scenes for Act", the Builder will deposit all the newl
 >
 > It is all in what you find works for you.
 
-When you are ready, move onto the process of [**Generating Sessions**](Generating-Sessions.md).
+When you are ready, move onto the process of **[Generating Sessions](Generating-Sessions.md)**.

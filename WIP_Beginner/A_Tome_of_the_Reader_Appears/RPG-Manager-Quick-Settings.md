@@ -3,7 +3,7 @@ alias: [RPG Manager Quick Settings]
 ---
 # RPG Manager Quick Settings
 
-*A portal from [**About This Guide**](About-This-Guide.md) forms nearby as it waits for its hosts.*
+*A portal from **[About This Guide](About-This-Guide.md)** forms nearby as it waits for its hosts.*
 
 > *You all arrive with a squelch as your party drops into an active heavy-metal concert. The nearby moshing milmultinupedes cease briefly to look at you with their numerous eyes.*
 >
@@ -35,7 +35,7 @@ Once the image folder has been selected, it has been saved in the settings and y
 
 ## Next Steps
 
-Proceed to [**The Brief Introduction to Terminology**](The-Brief-Introduction-to-Terminology.md).
+Proceed to **[The Brief Introduction to Terminology](The-Brief-Introduction-to-Terminology.md)**.
 
 > "*Ah. So that is what happened to the last ones who read this tome. Come along now.*"
 >

@@ -67,6 +67,6 @@ Please read these carefully as they were added to save you time, maximize your u
 
 ## Next Steps
 
-Onward to your next adventure in the [**RPG Manager Quick Settings**](RPG-Manager-Quick-Settings.md).
+Onward to your next adventure in the **[RPG Manager Quick Settings](RPG-Manager-Quick-Settings.md)**.
 
 > *As you click the link, your team and accompying party is whisked away by a stream of magic and the pungent smell of wet earth.*

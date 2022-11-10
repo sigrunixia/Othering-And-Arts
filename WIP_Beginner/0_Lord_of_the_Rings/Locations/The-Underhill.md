@@ -27,7 +27,7 @@ models:
 ```
 ---
 ### Location Details
- - [**Bag End**](Bag-End.md) is located within this district.
+ - **[Bag End](Bag-End.md)** is located within this district.
 
 ---
 ```RpgManagerID

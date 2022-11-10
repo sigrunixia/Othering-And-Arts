@@ -22,7 +22,7 @@ Within your Obsidian Shard, either click on the D20 die on the left sidebar to o
 
 If you do not see either of those options, check your settings to see if RPG-Manager is enabled.
 
-If it is enabled, I suggest you leave this document and [**raise a little white flag**](https://github.com/carlonicora/obsidian-rpg-manager/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc). I'll send Zaden to clean up your ashes.
+If it is enabled, I suggest you leave this document and **[raise a little white flag](https://github.com/carlonicora/obsidian-rpg-manager/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)**. I'll send Zaden to clean up your ashes.
 
 ![RPGM_Campaign_OpeningPal](../Zadens_Photo_Album/Guide/Hierarchy/Campaign/RPGM_Campaign_OpeningPal.png)
 
@@ -167,7 +167,7 @@ tags:
 
 #### Alias and Aliases
 
-For Alias and Aliases, I recommend reading the [**Obsidian Documentation**](https://help.obsidian.md/How+to/Add+aliases+to+note) on the matter.
+For Alias and Aliases, I recommend reading the **[Obsidian Documentation](https://help.obsidian.md/How+to/Add+aliases+to+note)** on the matter.
 
 ## Next Class
 
@@ -175,4 +175,4 @@ My fine, #Seed  and #Cactus . You have learned enough to move onto the world of 
 
 > 🌲 #Tree and 🌿 #Herb, now would be a great time to make any additional campaign pages and associated folders that you need to make for any in-progress or completed campaigns.  
 
-[**Creating an Adventure**](Creating-an-Adventure.md)>
+**[Creating an Adventure](Creating-an-Adventure.md)**>

@@ -1,7 +1,7 @@
 
 # Excerpt a Scene
 
-As they pass over the final hill of [**Designing an Act**](Designing-an-Act.md), Gandalf breaks out into a
+As they pass over the final hill of **[Designing an Act](Designing-an-Act.md)**, Gandalf breaks out into a
 "The road goes ever on and on."
 
 "You're late!" Frodo calls out with crossed arms.
@@ -55,12 +55,12 @@ The Scene Page is laid out similarly to the Act Page, but it includes more detai
 
 You have the existing knowledge and ability to do the following:
 
-- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
-- [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
-- [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
+- **[Adding a Synopsis](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)**
+- **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
+- **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
+- **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
+- **[The Gallery Manager](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)**
+- **[Moving your Page](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)**
 
 #### Act Page Shows Scenes
 
@@ -120,7 +120,7 @@ For now, however, all you may notice is a change on your Scene Page. We issued t
 
 > Frodo 🌱 #Seed  Baggins, it is recommended you go ahead and make sure that your Act and Scene Synopsis are filled out, if you have ideas for what they ought to contain. You can also include anything else in those two Pages you think you need to fill out. After that, you have a choice.
 >
-> You can either go with #Tree and #Herb to begin [**Forging Many Scenes**](Forging-Many-Scenes.md) at once, or you can move ahead with and learn the process of [**Generating Sessions**](Generating-Sessions.md)
+> You can either go with #Tree and #Herb to begin **[Forging Many Scenes**](Forging-Many-Scenes.md) at once, or you can move ahead with and learn the process of [**Generating Sessions](Generating-Sessions.md)**
 
 ## Herb and Trees Next Steps
 
@@ -128,7 +128,7 @@ For now, however, all you may notice is a change on your Scene Page. We issued t
 >
 > As was recommended to Frodo 🌱 #Seed  Baggins, make sure you fill out as much as you are ready to. Once we get to the Elements, you are not going to have to want to come back and do these small tweaks.
 >
-> When ready you will begin [**Forging Many Scenes**](Forging-Many-Scenes.md).
+> When ready you will begin **[Forging Many Scenes](Forging-Many-Scenes.md)**.
 
 ## Cactus Next Steps
 

@@ -31,7 +31,7 @@ models:
 ---
 ### Player Character Notes
  - Not pictured- he has a single, green leaf sticking out of his head.
- - Birthday was taken from [**Frodo Baggins Tolkien Gateway Wiki**](https://tolkiengateway.net/wiki/Frodo_Baggins)
+ - Birthday was taken from **[Frodo Baggins Tolkien Gateway Wiki](https://tolkiengateway.net/wiki/Frodo_Baggins)**
 
 ---
 ```RpgManagerID

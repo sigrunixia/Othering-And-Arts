@@ -30,7 +30,7 @@ models:
 ```
 ---
 ### Location Details
- - The main residiential area that contains [**Bag End**](Bag-End.md) is known as [**The Underhill**](The-Underhill.md). 
+ - The main residiential area that contains **[Bag End**](Bag-End.md) is known as [**The Underhill](The-Underhill.md)**. 
 
 ---
 ```RpgManagerID

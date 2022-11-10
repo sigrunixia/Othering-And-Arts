@@ -4,7 +4,7 @@ alias: [Designing an Act]
 
 # Designing an Act
 
-Twilight falls as the party of flora readers find their way back onto the main road that came from [**Creating an Adventure**](Creating-an-Adventure.md), they find themselves at a crossroads.
+Twilight falls as the party of flora readers find their way back onto the main road that came from **[Creating an Adventure](Creating-an-Adventure.md)**, they find themselves at a crossroads.
 
 > **Seed**: We can't go back that way. That angry Signore Fenice will burn us alive.
 >
@@ -58,12 +58,12 @@ The Act Page is laid out similarly to the Adventure and Campaign Pages.
 
 You have the existing knowledge and ability to do the following:
 
-- [**Adding a Synopsis**](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)
-- [**How to Mark the Campaign or Component as Complete**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)
-- [**How to Add Notes**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)
-- [**How to Add Frontmatter Tags and Aliases**](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)
-- [**The Gallery Manager**](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)
-- [**Moving your Page**](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)
+- **[Adding a Synopsis](../Building_the_Campaign/Building-a-Campaign.md#Adding%20a%20Synopsis)**
+- **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
+- **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
+- **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
+- **[The Gallery Manager](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)**
+- **[Moving your Page](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)**
 
 With the creation of the Act Page, your active RPGM campaign has gained some new functionality.
 
@@ -87,4 +87,4 @@ The Scene Builder is now an option for you to take advantage of. This is a quick
 
 "We've just about arrived messers floratsons," Gandalf said with a nod of his head at the bustling village. "I recommend sitting up closer here with me. The children always expect a little-firework show and you are sitting atop on the best ones."
 
-Crawl to the front of the cart to [**Excerpt a Scene**](Excerpt-a-Scene.md) -->
+Crawl to the front of the cart to **[Excerpt a Scene](Excerpt-a-Scene.md)** -->
