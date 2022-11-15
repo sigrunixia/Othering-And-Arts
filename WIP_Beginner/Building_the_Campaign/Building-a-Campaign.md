@@ -61,7 +61,7 @@ Once you click **Create**, a new note with the name you chose for your Campaign 
 >
 >Wherever you place your Campaign File, is where your automatically generated **Adventure**, **Acts**, **Characters**, and other folders will generate.
 >
->Move the Campaign File first. It will make everything much more organized down the muddy-laden road."*
+>Move the Campaign File first. It will make everything much more organized down the muddy-laden road.""*
 >
 > *The apparition fades away with a flair of tentacles.*
 
@@ -77,7 +77,7 @@ Hover over the *`Synopsis missing`* row, and to the right a `</>` symbol will sh
 
 Once you click it. Above the Campaign Page box, the **Page Options Die** icon will disappear and a code block called the **RpgManagerData** block with **YAML** will appear, with many **YAML Keys**. Most of these keys are related to your optional campaign page storytelling details which we will cover in another course. For now, we will focus on the the Synopsis key.
 
-The Synopsis is not a static field, especially on the campaign page. It will grow over time. Fow now, we will add only a few lines to get you comfortable with typing in these structured code blocks. Go ahead and type the following when ready.
+The Synopsis is not a static field, especially on the campaign page. It will grow over time. For now, we will add only a few lines to get you comfortable with typing in these structured code blocks. Go ahead and type the following when ready.
 
 >"The Ring has been found. Mordor awakens. A battle that was once thought over starts again. Frodo and Sam must take the journey of their lives and sacrifice everything and everyone to see the Ring destroyed."
 
@@ -174,8 +174,41 @@ tags:
 
 For Alias and Aliases, I recommend reading the **[Obsidian Documentation](https://help.obsidian.md/How+to/Add+aliases+to+note)** on the matter.
 
-### How to Enable Fantasy Calendar within the Campaign
+### 3.2-How to Enable Fantasy Calendar Support
 
+> ![Nixther-Intro](../Zadens_Photo_Album/Storytelling/Act-1/Nixther-Intro.jpg)
+> 
+> *Greetings Learners. I am Nixther, Keeper of the Updates.* 
+
+Beginning in RPGM Release 3.2, support for **[Obsidian Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar)** was added. This enables calendar changes the views on the **Campaign**, **Characters**, Clues, Scenes, and Event pages.
+
+To enable this functionality within your Campaign, you will need to perform the following steps after you have completed the initial calendar set-up above, and after you have set-up your Calendar in the Fantasy Calendar plugin.
+
+**Tip**
+- We do recommend you export the most recent copy of the .json calendar directly from Fantasy-Calendar.com instead of using the plugin presents. 
+- We also recommend you name your calendar to not contain any special characters or spaces.
+
+#### Adding the Frontmatter
+
+Within the Frontmatter above the Campaign Page, you will need to declare your chosen calendar that you have already configured within Fantasy Calendar.
+
+This is done using the existing Fantasy Calendar YAML key `fc-calendar`.
+
+⚠️ _**Note**_: You can use a different FC-Calendar per campaign, but you may only use one FC-Calendar per Campaign.
+
+![Fantasy-Calendar-Campaign-Add](../Zadens_Photo_Album/Fantasy_Calendar/Fantasy-Calendar-Campaign-Add.png)
+
+Once this is added, Reload Obsidian or Restart Obsidian. In the future this step may not be needed.
+
+#### The Integrated Calendar
+
+If successful, you will observe that the date in your Campaign Page will now match today's date in your Fantasy Calendar. If it does not, please check out this **[thread](https://github.com/carlonicora/obsidian-rpg-manager/discussions/234)** and if needed, **[submit an issue](https://github.com/carlonicora/obsidian-rpg-manager/issues/new/choose)**. 
+
+#### What you can expect now
+
+Since you are now switched over to Fantasy Calendar, any dates you may have entered into other Elements like Characters and Clue's have "disappeared." Those dates remain as backups for when/if Fantasy Calendar is disabled, but you will need to go and re-enter any dates for those Elements.
+
+Due to RPGM not having any indication how the Gregorian Date translates to your chosen Calendar's current date, there is no way to transfer the dates over.
 
 
 ## Turn the Page

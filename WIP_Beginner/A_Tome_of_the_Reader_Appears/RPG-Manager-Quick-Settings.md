@@ -6,7 +6,7 @@ alias: [RPG-Manager Quick Settings]
 
 *A portal from **[About This Guide](About-This-Guide.md)** forms nearby as it waits for its hosts.*
 
->![moshing-twix](../Zadens_Photo_Album/Storytelling/Act-1/moshing-twix.jpg)
+>![moshing-twix](../Zadens_Photo_Album/Storytelling/Act-1/Moshing-Twix.jpg)
 > 
 > *You all arrive with a squelch as your party drops into an active heavy-metal concert. The nearby moshing milmultinupedes cease briefly to look at you with their numerous eyes.*
 >
