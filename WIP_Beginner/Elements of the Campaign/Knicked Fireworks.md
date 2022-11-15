@@ -1,7 +1,7 @@
 ---
 alias: [Liberated Fireworks]
 ---
-# Stolen Fireworks
+# Knicked Fireworks
 
 > "So you'll leave me alone and never come near me again, if I make a distraction so you can take this?"
 >
@@ -55,23 +55,7 @@ A **Clue** is an Element which is meant to signify that something is leads to an
 
 An **Event** is an Element which records something that happened or will happen during the course of the Campaign. Events are *generally* related to Clues, Locations, Factions, and Non-Player Characters. The events are mainly part of world building, to give context to the story, and to provide information to the player characters.
 
-## The Missing Fireworks
-
-In this part of the guide, we are going to do something a little bit different. You already know how to add new pages, and the Subplot, Event, and Clue pages all have the same format as prior pages and do not have any new features. 
-
-Instead, go ahead and do the following.
-
-1. Make a Subplot. If you are following the guide word-for-word, name it "The Missing Fireworks."
-
-2. Make two Clues. If following the guide, name one clue, "Oddly-Matching Footprints" and the other clue, "Half-Smoked Combustomille."
-
-3. Make an Event. If following the guide, name it "Bilbo fights a Dragon".
-
-When you have made them, go ahead and fill out the Synopsis/Descriptions as you would like if you made your own. 
-
-**The Missing Fireworks**
-
-### Existing Features
+## Existing Features
 
 You have the existing knowledge and ability to do the following:
 
@@ -82,3 +66,36 @@ You have the existing knowledge and ability to do the following:
 - **[The Gallery Manager](../Building%20the%20Campaign/Creating%20an%20Adventure.md#The%20Gallery%20Manager)**
 - **[Moving your Page](../Building%20the%20Campaign/Creating%20an%20Adventure.md#Moving%20your%20Page)**
 - **[Managing Location Relationships](From%20Bag%20End%20to%20The%20Shire.md#Managing%20Location%20Relationships)**
+
+## The Missing Fireworks
+
+In this part of the guide, we are going to do something a little bit different. You already know how to add new pages, and the Subplot, Event, and Clue pages all have the same format as prior pages and do not have any new features. We're going to practice more relationship linking.
+
+Go ahead and do the following.
+
+1. Make a Subplot. If you are following the guide word-for-word, name it "The Missing Fireworks."
+
+2. Make two Clues. If following the guide, name one clue, "Oddly-Matching Footprints" and the other clue, "Half-Smoked Combustomille."
+
+3. Make an Event. If following the guide, name it "Bilbo fights a Dragon".
+
+When you have made them, go ahead and fill out the Synopsis/Descriptions as you would like if you made your own. Pictured below is our guide examples that will be found in the Lord of the Rings Vault.
+
+### The Missing Fireworks
+
+
+### Oddly-Matching Footprints
+![Clue-footprints](../Zadens_Photo_Album/Guide/Elements/Subplot/Clue-footprints.png)
+
+### Half-Smoked Combustomille
+![clue-halfsmoked](../Zadens_Photo_Album/Guide/Elements/Subplot/clue-halfsmoked.png)
+
+
+### Bilbo Fights a Dragon
+
+![event-dragon](../Zadens_Photo_Album/Guide/Elements/Subplot/event-dragon.png)
+
+
+
+
+

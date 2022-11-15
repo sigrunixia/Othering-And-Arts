@@ -16,7 +16,9 @@ relationships:
   - type: "child"
     path: "Lord of the Rings/Locations/The-Underhill.md"
     description: 
-
+  - type: "child"
+    path: "Lord of the Rings/Locations/Gandalfs Cart.md"
+    description: "Gandalf the Grey has parked his cart in Hobbiton."
 ```
 
 ```RpgManager

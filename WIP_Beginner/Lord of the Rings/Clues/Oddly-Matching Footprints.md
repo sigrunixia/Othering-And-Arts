@@ -2,7 +2,7 @@
 alias: ["Oddly-Matching Footprints"]
 tags: []
 ---
-# oddly-Matching Footprints
+# Oddly-Matching Footprints
 
 ```RpgManagerData
 data: 
@@ -33,17 +33,18 @@ models:
 ---
 
 ## Clue Details
+### Player Details
+- There are many footprints here, but most hobbits do not wear shoes.
 
+### Game Master Details
+
+- Merry and Pippin wear matching soft-skinned shoes to confuse any would-be halflings who try to catch onto their troublemaking.
 - D20 Roll for Clue
   - 5 = There are 2 sets of footprints that look a bit off...
   - 10 = The 2 sets of footprints have the same indentations when viewed from above
   - 15 = There are more of these footprints leading towards Gandalfs Cart
   - 20 = There are also more of these footprints going further into the Party Site
   - 21 = The footprints are old
-
-## Game Master Details
-
-- Merry and Pippin wear matching soft-skinned shoes to confuse any would-be halflings who try to catch onto their troublemaking.
 
 ---
 

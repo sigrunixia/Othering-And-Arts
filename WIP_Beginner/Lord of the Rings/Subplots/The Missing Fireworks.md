@@ -49,7 +49,6 @@ models:
 - [ ] **[Bilbo Baggins](../NonPlayerCharacters/Bilbo%20Baggins.md)**
 - [ ] #Herb 
 
-
 #### Game Master Notes
 ##### Conditions for Discovery Pre-Mandatory-Trigger
 - [ ] Must talk to Gaffer

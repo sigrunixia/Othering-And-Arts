@@ -9,10 +9,7 @@ data:
   synopsis: "A little tipsy, Bilbo mistakes a rogue dragon firework for a real dragon and proceeds to engage in a battle of words with it. The event becomes so memorable that ballads are written about it and far surpass the tales of Bilbo the Adventurer. "
   complete: false
   date: 
-relationships: 
-  - type: "bidirectional"
-    path: "Lord of the Rings/Locations/Hobbiton Party Site.md"
-    description: 
+relationships: []
 ```
 
 ```RpgManager
@@ -30,7 +27,8 @@ models:
 
 ## Event Details
 
--
+- **[Bag End](../Locations/Bag%20End.md)**
+- **[Gandalf](../NonPlayerCharacters/Gandalf.md)**
 
 ## Game Master Details
 

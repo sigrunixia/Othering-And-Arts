@@ -130,4 +130,4 @@ That was the basics of managing your location relationships. In the next few Ele
 >
 > #Herb stopped mid roll to the appearance of two pairs of luminous eyes peeking out from inside two burlap bags.
 
-**Next Mission**: **[Stolen Fireworks](Stolen%20Fireworks.md)**
+**Next Mission**: **[Knicked Fireworks](Knicked%20Fireworks.md)**

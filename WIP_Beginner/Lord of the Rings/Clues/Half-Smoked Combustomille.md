@@ -6,9 +6,12 @@ tags: []
 
 ```RpgManagerData
 data: 
-  synopsis: 
+  synopsis: "Combustomille is similar to the kava and chamomille plants, but its effects can only be obtained by smoking it. This pipe has been half-smoked and trimmed. "
   complete: false
   found: 
+  images: 
+    - path: "Zadens_Photo_Album/Clues/half-smoked-pipe.jpg"
+      caption: "This is half-smoked?!"
 ```
 
 ```RpgManager
@@ -26,8 +29,10 @@ models:
 ---
 
 ## Clue Details
+- Anyone with a good sense of smell would be able to scent the fruity, honeysuckle-like remains resin left on the cart. 
 
--
+### Game Master Notes
+- Easily found in **[Gandalfs Cart](../Locations/Gandalfs%20Cart.md)** if looked for.
 
 ---
 
