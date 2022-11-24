@@ -1,9 +1,10 @@
 ---
-alias: [Missing Fireworks-A Quest, "Missing Fireworks, A Quest"]
-linter-yaml-title-alias: Missing Fireworks-A Quest
+alias: ["Missing Fireworks, A Quest"]
 ---
 
 # Missing Fireworks-A Quest
+
+< --- **[From Bag End, to The Shire](From-Bag-End-to-The-Shire.md)** | **[Music to Our Ears](Music-to-Our-Ears.md)** --- >
 
 > "So you'll leave me alone and never come near me again, if I make a distraction so you can take this?"
 >
@@ -47,7 +48,7 @@ The Subplot as a RPGM Element exists to help organize **Events** and **Clues** r
 
 ## What is a Clue?
 
-A **Clue** is an Element which is meant to signify that something is leads to another. In a clue tied to a:
+A **Clue** is an joining Element which is meant to signify two seemingly unrelated Elements are tied to one another. In a clue that is linked to a:
 
 - Location, it could mean that there is a treasure room if a player does an investigation or perception check. It could also mean that there is something related to a Subplot in that location.
 - Character, it could mean that person may need to be talked to, or they hold an item of significance.  
@@ -67,15 +68,18 @@ You have the existing knowledge and ability to do the following:
 - **[How to Mark the Campaign or Component as Complete](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
 - **[How to Add Notes](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Notes)**
 - **[How to Add Frontmatter Tags and Aliases](../Building_the_Campaign/Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
+- **[How to Enable Fantasy Calendar Support](Building-a-Campaign.md#How%20to%20Enable%20Fantasy%20Calendar%20Support)**
 - **[The Gallery Manager](../Building_the_Campaign/Creating-an-Adventure.md#The%20Gallery%20Manager)**
 - **[Moving your Page](../Building_the_Campaign/Creating-an-Adventure.md#Moving%20your%20Page)**
 - **[Managing Location Relationships](From-Bag-End-to-The-Shire.md#Managing%20Location%20Relationships)**
 
 ## The Missing Fireworks
 
-In this part of the guide, we are going to do something a little bit different. You already know how to add new pages, and the Subplot, Event, and Clue pages all have the same format as prior pages and do not have any new features. We're going to practice more relationship linking.
+In this part of the guide, we are going to do something a little bit different. 
 
-Go ahead and do the following.
+You already know how to add new pages, and the Subplot, Event, and Clue pages all have the same format as prior pages and do not have any new features. We're going to practice more relationship linking.
+
+Go ahead and create the following.
 
 1. Make a Subplot. If you are following the guide word-for-word, name it "The Missing Fireworks."
 2. Make two Clues. If following the guide, name one clue, "Oddly-Matching Footprints" and the other clue, "Half-Smoked Combustomille."
@@ -83,16 +87,25 @@ Go ahead and do the following.
 
 When you have made them, go ahead and fill out the Synopsis/Descriptions as you would like if you made your own. Pictured below is our guide examples that will be found in the Lord of the Rings Vault.
 
-### The Missing Fireworks
+### Subplot - The Missing Fireworks
 
-### Oddly-Matching Footprints
+![subplot-missing-fireworks-page](../Zadens_Photo_Album/Subplot/subplot-missing-fireworks-page.png)
+
+### Clue - Oddly-Matching Footprints
 
 ![Clue-footprints](../Zadens_Photo_Album/Clue/Clue-Sample-Matching-Footprints.png)
 
-### Half-Smoked Combustomille
+### Clue - Half-Smoked Combustomille
 
 ![clue-halfsmoked](../Zadens_Photo_Album/Clue/Clue-Sample-Half-Smoked.png)
 
-### Bilbo Fights a Dragon
+### Event - Bilbo Fights a Dragon
 
 ![event-dragon](../Zadens_Photo_Album/Event/Event-Sample-Bilbo-Fights-Dragon.png)
+
+## The Trifecta of Relationships
+
+Now that we have a subplot, some clues, and an event at the end of the subplot, let's begin tying how they all interact. 
+
+Starting with the event. 
+

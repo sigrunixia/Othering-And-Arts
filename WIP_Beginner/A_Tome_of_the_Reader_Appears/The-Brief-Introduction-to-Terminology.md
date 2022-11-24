@@ -37,11 +37,23 @@ A **Session** is the in-real-life game session you and your players will play. I
 
 Where the **Hierarchy** and Sessions contain the plotting organization structure and overall story, the **Elements** contain the individuals, places, occasions, and other Worldbuilding items that help the campaign come to life.
 
-A **Character** or **Player Character** is the character of a **Player**.
+A **Character** is a **Player Character** or Non-Player Character, but it most commonly refers to the Player Character. A Player Character is the character of a **Player** and sometimes a **Game Master**. 
 
 A **Non-Player Character** is an **NPC** and is usually controlled by the **Game Master** (GM).
 
 A **Game Master** is the storyteller of the game and is sometimes referred to as the **Dungeon Master** (DM).
+
+A **Faction** is a group of Player Characters and/or Non-Player Characters.
+
+A **Location** is a place where storytelling elements of the game happen or are referenced. 
+
+A **Subplot** is a storyline which runs inside the main campaign, with a specific objective that may or may not be directly related to the overall plot of the campaign.
+
+A **Clue** is an joining Element which is meant to signify two seemingly unrelated Elements are tied to one another.
+
+An **Event** is a period of time that records something that happened or will happen during the course of the Campaign.
+
+A **Music**  is a 
 
 ## Turn the Page
 

@@ -4,9 +4,11 @@ alias: [Generating Sessions]
 
 # Generating Sessions
 
+< --- **[Forging Many Scenes](Forging-Many-Scenes.md)** | **[Character Creation](../Elements%20of%20the%20Campaign/Character-Creation.md)** --->
+
 > Fireworks fly and coo in wonder, but Herb, Cactus, and Tree hardly notice the ringing in their ears as they stare at the back of Frodo's head. There was no sign of Seed anywhere, except for the little leaf sticking out the top of Frodo's curls.
 >
->"We've just crossed the **[Forging-Many-Scenes](Forging-Many-Scenes.md)**," Gandalf told them. "Next up, Bag End. "
+>"We've just crossed a branch of the Shire-Water," Gandalf told them. "Next up, Bag End. "
 
 The final yet unofficial piece of the Hierarchy is the Session Note, or Session Page.
 
@@ -68,7 +70,7 @@ A link to the individual **Scene Page** will be added, and a space created to ma
 
 #### Session Date
 
-As the Campaign Page and Scene Pages track the in-game Date, the Session Notes will track the in-real life date. These currently follow the same values and limitations as the in-game dates:
+As the Campaign Page and Scene Pages track the in-game Date, the Session Notes will track the **In-Real Life** date. These currently follow the same values and limitations as the in-game dates:
 
 - The date must be a Gregorian Calendar date
 - The date must be in a a recognizable year, month, and date format. Such as **`YYYY-MM-DD`** or **`MM-DD-YYYY`**.
@@ -110,11 +112,17 @@ In essence, who do the other players think was the Rose of the session? This is 
 >
 > It does not take long for the act to become comfortable enough that the players switch to verbal on their own, and stickers go flying!
 
-## Next Steps
+## Turn the Page
+
+We are done with the Hierarchy. The nitty gritty. The irksome murksome. Now, it is the fun and the games. The characters, the locations, the plots, the world! Get ready to make some halflings, wizards, orcs, places, and events.
+
+< --- **[Forging Many Scenes](Forging-Many-Scenes.md)** | **[Character Creation](../Elements%20of%20the%20Campaign/Character-Creation.md)** --->
 
 > The cart stops in front of the hobbit's hovel. Gandalf steps down with a groan, whereas Frodo hops off with the spryness of youth.
 >
->Tree follows closely. **Tree**: Seed? Are you there?
+>Tree follows closely. 
+>
+>**Tree**: Seed? Are you there?
 >
 >Frodo turns around with a big grin on his face. "Ugh, stop worrying Tree. Isn't it cool? I'm a halfling! Lighten up. Have some of #Herbs shrooms or pipeweed."
 >
@@ -122,4 +130,3 @@ In essence, who do the other players think was the Rose of the session? This is 
 >
 >"Oh goodness herbage. I think they need some water." Gandalf remarked. "Mind getting that Frodo?"
 
-We are done with the Hierarchy. The nitty gritty. The irksome murksome. Now, it is the fun and the games. The characters, the locations, the plots, the world! Get ready to make some halflings, wizards, orcs, places, and events. Head to **[A Player Character Appears](../Elements%20of%20the%20Campaign/Character-Creation.md)**

@@ -4,9 +4,11 @@ alias: [Designing an Act]
 
 # Designing an Act
 
-Twilight falls as the party of flora readers find their way back onto the main road that came from **[Creating-an-Adventure](Creating-an-Adventure.md)**, they find themselves at a crossroads.
+< --- **[Creating an Adventure](Creating-an-Adventure.md)** | **[Excerpt a Scene](Excerpt-a-Scene.md)** --- > 
 
-> **Seed**: We can't go back that way. That angry Signore Fenice will burn us alive.
+Twilight falls as the party of flora readers find their way back onto the main road that came from the verdant hills, and they find themselves at a crossroads.
+
+> **Seed**: We can't go back that way. That angry Signor Fenice will burn us alive.
 >
 > **Tree**: Yeah. But which of these other ways?
 >
@@ -20,7 +22,7 @@ Twilight falls as the party of flora readers find their way back onto the main r
 
 "Excuse me fine folk. You need any assistance?"
 
-> **Herb** twirled around. "Hey, we're busy talkGaldalf?!"
+> **Herb** twirled around. "Hey, we're busy talk-Galdalf?!"
 
 The elder chuckled as he adjusted the brim of his hat. "Apologies to startle you my little friends. You are all quite far from the Shire and are never going to make it on time at this rate. Allow me to provide you a lift but do mind the fireworks in back, they are quite touchy."
 
@@ -80,8 +82,11 @@ Your Campaign Page will also list your Acts. Additionally, you may notice that t
 
 The Scene Builder is now an option for you to take advantage of. This is a quick-scene building option to allow you to outline and build out many scenes within an act at once. We will show this functionality after we show how to create a scene and conventionally, because the Scene Builder is meant to take advantage of an optional Scene Analyser, which we'll briefly introduce and show as well.
 
-## Next Steps
+If you wish to skip ahead, turn to **[Forging Many Scenes](Forging-Many-Scenes.md)**.
 
-"We've just about arrived messers floratsons," Gandalf said with a nod of his head at the bustling village. "I recommend sitting up closer here with me. The children always expect a little-firework show and you are sitting atop on the best ones."
+## Turn the Page
 
-Crawl to the front of the cart to **[Excerpt-a-Scene](Excerpt-a-Scene.md)** -->
+< --- **[Creating an Adventure](Creating-an-Adventure.md)** | **[Excerpt a Scene](Excerpt-a-Scene.md)** --- > 
+
+> "We've just about arrived messers floratsons," Gandalf said with a nod of his head at the bustling village. "I recommend sitting up closer here with me. The children always expect a little-firework show and you are sitting atop on the best ones."
+

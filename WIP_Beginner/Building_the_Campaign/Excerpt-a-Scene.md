@@ -4,12 +4,12 @@ aliases: [Excerpt a Scene]
 
 # Excerpt a Scene
 
-As they pass over the final hill of **[Designing-an-Act](Designing-an-Act.md)**, Gandalf breaks out into a  
+As they pass over the final hill of , Gandalf breaks out into a  
 "The road goes ever on and on."
 
 "You're late!" Frodo calls out with crossed arms.
 
-> **Floratsons**: Woah.  
+> **Floratsons**: Woah!  
 > **Seed**: Woah! You think they are gonna say `the thing`? I gotta get closer.  
 > Seed slinks onto the seat next to Gandalf.
 
@@ -62,6 +62,7 @@ You have the existing knowledge and ability to do the following:
 - **[How to Mark the Campaign or Component as Complete](Building-a-Campaign.md#How%20to%20Mark%20the%20Campaign%20or%20Component%20as%20Complete)**
 - **[How to Add Notes](Building-a-Campaign.md#How%20to%20Add%20Notes)**
 - **[How to Add Frontmatter Tags and Aliases](Building-a-Campaign.md#How%20to%20Add%20Frontmatter%20Tags%20and%20Aliases)**
+- **[How to Enable Fantasy Calendar Support](Building-a-Campaign.md#How%20to%20Enable%20Fantasy%20Calendar%20Support)**
 - **[The Gallery Manager](Creating-an-Adventure.md#The%20Gallery%20Manager)**
 - **[Moving your Page](Creating-an-Adventure.md#Moving%20your%20Page)**
 
@@ -119,13 +120,13 @@ For now, however, all you may notice is a change on your Scene Page. We issued t
 
 ![RPGM_Scene_Date](../Zadens_Photo_Album/Scene/Scene-Flesh-Date.png)
 
-## Frodo's Next Steps
+## Frodo's Turn of the Page
 
 > Frodo 🌱 #Seed Baggins, it is recommended you go ahead and make sure that your Act and Scene Synopsis are filled out, if you have ideas for what they ought to contain. You can also include anything else in those two Pages you think you need to fill out. After that, you have a choice.
 >
 > You can either go with #Tree and #Herb to begin **[Forging Many Scenes**](Forging-Many-Scenes.md) at once, or you can move ahead with and learn the process of [**Generating Sessions](Generating-Sessions.md)**
 
-## Herb and Trees Next Steps
+## Herb and Tree's Turn of the Page
 
 > 🌿 #Herb and 🌲 #Tree , we waited to have you make your additional Acts until now so you could see how a Scene was laid out. Go ahead and make any additional Acts you need in preparation for the bulk-scenes you will be adding via the Scene Builder in the next part of the guide.
 >
@@ -133,6 +134,6 @@ For now, however, all you may notice is a change on your Scene Page. We issued t
 >
 > When ready you will begin **[Forging-Many-Scenes](Forging-Many-Scenes.md)**.
 
-## Cactus Next Steps
+## Cactus' Turn of the Page
 
 > Since you are still window shopping, choose one of the paths above and follow one of them.

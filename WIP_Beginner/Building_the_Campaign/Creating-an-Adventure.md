@@ -4,7 +4,9 @@ alias: [Creating an Adventure]
 
 # Creating an Adventure
 
-> *The party steps through the door of **[Building-a-Campaign](Building-a-Campaign.md)** to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
+< --- **[Building a Campaign](Building-a-Campaign.md)** | **[Designing an Act](Designing-an-Act.md)** --- >
+
+> *The party steps through the door to the next classroom, and finds themselves in a strange place. Green hillsides, sheep, bundles of fresh food, and halflings as far as the eye can see.*  
 >
 > *Another step, and the ground feels…cold.. they have no shoes!*
 
@@ -56,11 +58,11 @@ When you add an Adventure to your Campaign, RPGM gains some additional options.
 
 Additionally, when you create an Adventure, your Campaign Page gains a new feature. You will be able to see a list of your Adventures in an Adventure Block, and the Synopsis for those adventures. The list will automatically attach itself to `Campaign Notes` so if you placed any content below it already like images or dataview codeblocks, those will then be moved below this Adventure Block.
 
-![RPGM_Campaign_Adventure_Addition](../Zadens_Photo_Album/Campaign/RPGM_Campaign_Adventure_Addition.png)
+![RPGM_Campaign_Adventure_Addition](../Zadens_Photo_Album/Campaign/Campaign_Adventure_Addition.png)
 
 #### The Gallery Manager
 
-Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in **[RPG-Manager-Quick-Settings](../A_Tome_of_the_Reader_Appears/RPG-Manager-Quick-Settings.md)** we had you choose your attachments folder? This is for the gallery manager.
+Many modules within RPGM allow you to add images to them, and the list is expanding every patch. Remember how in **[RPG-Manager Quick Settings](../A_Tome_of_the_Reader_Appears/RPG-Manager-Quick-Settings.md)** we had you choose your attachments folder? This is for the gallery manager.
 
 There are four ways that RPG Manager will govern images inside the gallery manager:
 
@@ -95,7 +97,7 @@ Once you click Save Caption, your image is added. Your adventure page Synopsis s
 
 #### Moving your Page
 
-> ""Oh no Signore Fenice!" you exclaim to me this late in the lesson, "I made multiple campaigns and adventures and put them in the wrong ones. What do I do? It's the end. The end!" You're right, it is the end and you fail. Now come closer so I can burn your little plant bits.""
+> ""Oh no Signor Fenice!" you exclaim to me this late in the lesson, "I made multiple campaigns and adventures and put them in the wrong ones. What do I do? It's the end. The end!" You're right, it is the end and you fail. Now come closer so I can burn your little plant bits.""
 >
 >A donkey pulling a cart of books rolls behind the class. "That's form D.U.M.B in triplicate for #Cactus and form S.A.F.E. in two-stamp for the rest, *Sig-no-reh*." The librarian narrowly avoids the jet of phoenix flame.
 >
@@ -117,26 +119,28 @@ Once you click **Update the Identifier**, the Adventure will move to the Campaig
 
 #### Manage Relationships
 
-Managing relationships is heavily reliant upon having the worldbilding elements of the campaign. Characters, locations, factions, and more. We will introduce how to tie in relationships together in its own section after we have added some of these elements later in the guide.
+Managing relationships is heavily reliant upon having the world-building elements of the campaign. Characters, locations, factions, and more. We will introduce how to tie in relationships together in its own section after we have added some of these elements later in the guide.
 
-## Next Class
+## Turn the Page
 
-> **Seed**: See Signore Fenice? That wasn't so bad.
+< --- **[Building a Campaign](Building-a-Campaign.md)** | **[Designing an Act](Designing-an-Act.md)** --- >
+
+> **Seed**: See Signoreh Fenice? That wasn't so bad.
 >
-> *Signore Fenice begins to ember.*
+> *Signor Fenice begins to ember.*
 >
 > **Cactus**: Oh needles he's going to kill us. Run.. Run!
 >
 > **Seed**: Nu uh. I ain't being bullied by this bird brained toodle.
 >
-> *Signore Fenice begins to flare.*
+> *Signor Fenice begins to flare.*
 >
 > **Seed**: On second thought. Running seems good! Bai~!
-
-Signore Fenice bursts into a golden flame that coils around the the two remaining readers.
-
-"🌲 #Tree and 🌿 #Herb ." The voice takes on a musical quality that was not present before. "This is the time to add any additional Adventures you may need to add. Once that is done, join those two acorns before they hurt themselves." The flame darts upward towards the sky with an angry hiss, becoming the form of a serpent as it flies off toward the sun above.
-
+>
+> Signor Fenice bursts into a golden flame that coils around the the two remaining readers.
+>
+>"🌲 #Tree and 🌿 #Herb ." *The voice takes on a musical quality that was not present before.* "This is the time to add any additional Adventures you may need to add. Once that is done, join those two acorns before they hurt themselves." *The flame darts upward towards the sky with an angry hiss, becoming the form of a winged serpent as it flies off toward the sun above.*
+>
 > **Herb**: Did you see that..?
 >
 > **Tree**: Yup.
@@ -145,8 +149,8 @@ Signore Fenice bursts into a golden flame that coils around the the two remainin
 >
 > **Tree**: Nope.
 >
-> **Herb**:…Got any shrooms growing on you?
+> **Herb**: …Got any shrooms growing on you?
 >
 > **Tree**: Branch off you knot! Grab the Tome and let's go.
-
-Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signore Fenice and into the verdant hills of **[Designing-an-Act](Designing-an-Act.md)**.
+>
+> Leaving all their tools, their supplies, save the Tome of the Reader, the party runs, and runs, and runs, far away from prowling Signor Fenice and into the verdant hills.

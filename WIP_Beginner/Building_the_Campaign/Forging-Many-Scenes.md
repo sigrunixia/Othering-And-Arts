@@ -188,14 +188,13 @@ Here is an example screenshot of what it may look like, with also a sneak previe
 
 Once you click on "Create Scenes for Act", the Builder will deposit all the newly created Scenes within the Campaign Folder, or Scenes Folder depending on your settings, with the naming convention of `Act(Number)Scene(Number) - SceneTitle`.
 
-## Next Steps
+## Turn the Page
 
 > 🌲 #Tree and 🌿 #Herb
 >
-> Here is your workhorse and what you will be spending the majority of your inport time on as far as campaign importing outside of characters. Go ahead, and outline all of your scenes for the Acts you have created, and start filling in the in-progress ones that are created.
+> Here is your workhorse and what you will be spending the majority of your import time on as far as campaign importing outside of characters. Go ahead, and outline all of your scenes for the Acts you have created, and start filling in the in-progress ones that are created.
 >
 > Scenes generally are expected to be around 10-15 minutes of playtime, but do what feels natural as far as where the story breaks up for any prior information you import. You may find that some of your scenes are longer in history, and they become shorter going forward but that you have more scenes. That is fine. The inverse can also be true, or anything in between.
 >
 > It is all in what you find works for you.
 
-When you are ready, move onto the process of **[Generating-Sessions](Generating-Sessions.md)**.

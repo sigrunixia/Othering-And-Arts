@@ -1,9 +1,10 @@
 ---
-alias: [From Bag End to the Shire, "From Bag End, to The Shire"]
-linter-yaml-title-alias: From Bag End to the Shire
+alias: ["From Bag End, to The Shire"]
 ---
 
 # From Bag End to the Shire
+
+< --- **[Dark Riders of Mordor](Dark-Riders-of-Mordor.md)** | **[Missing Fireworks, A Quest](Missing-Fireworks-A-Quest.md)** --- >
 
 > *Back at Bag End…*
 >
@@ -19,7 +20,7 @@ linter-yaml-title-alias: From Bag End to the Shire
 
 A location is a place in the campaign the Player-Characters (PC) or Non-Player Characters (NPC) are living in. RPG Manager (RPGM) does not discriminate or require a specific size, as it can be as big as a country, or as small as a drawer.
 
-Locations are where characters will live their stories, and while not all may be worth creating in RPGM (That is alll up to you!) , but those with more interest, or the ones that are recurring, we highly recommend creating.
+Locations are where characters will live their stories, and while not all may be worth creating in RPGM (That is all up to you!) , but those with more interest, or the ones that are recurring, we highly recommend creating.
 
 ## The Land of the Halflings
 
@@ -61,7 +62,6 @@ In Lord of the Rings, we are not introduced to the concept of postal codes along
 ![RPGM-Guide-Location-Address](../Zadens_Photo_Album/Location/Location-Address.png)
 
 ## Creating More Elements
-
 
 #Seed #Tree #Herb #Cactus
 
@@ -121,11 +121,13 @@ Let's go ahead and go into the Relationship Manager, and make that change like w
 
 There we go. Bag End really looks lonely. Be sure to add some neighbors later when you have a chance.
 
-## Next Steps
+## Turn the Page
+
+< --- **[Dark Riders of Mordor](Dark-Riders-of-Mordor.md)** | **[Missing Fireworks, A Quest](Missing-Fireworks-A-Quest.md)** --- >
 
 That was the basics of managing your location relationships. In the next few Element sections, we'll continue to add in additional relationship introductions to you.
 
-> The group heads from Bag End to Hobbiton proper as nightfall will arrive soon and Gandalf will need time to put together his fireworks. Frodo holds a despondant Sam, #Cactus plucks out needles and throws them at random trees as the cart rolls back, and #Herb looks around nervously for any sign of familiar halflings.
+> The group heads from Bag End to Hobbiton proper as nightfall will arrive soon and Gandalf will need time to put together his fireworks. Frodo holds a despondent Sam, #Cactus plucks out needles and throws them at random trees as the cart rolls back, and #Herb looks around nervously for any sign of familiar halflings.
 >
 >Feeling uncomfortable near the others, #Herb climbs into the back of the cart with the fireworks and hides next to a group of burlap sacks. They've read the story, they know how this goes. Carefully, they pull out a small roll of paper and a pouch of combustomille and begin rolling in between the jostling of the cart. When they got to Hobbiton, this was going to be the stress relief and sleep they needed.
 >
@@ -133,4 +135,3 @@ That was the basics of managing your location relationships. In the next few Ele
 >
 > #Herb stopped mid roll to the appearance of two pairs of luminous eyes peeking out from inside two burlap bags.
 
-**Next Mission**: **[Missing-Fireworks-A-Quest](Missing-Fireworks-A-Quest.md)**
