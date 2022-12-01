@@ -1,6 +1,3 @@
-# Othering-And-Arts
+# Othering and the Arts
 
 Under Construction
-
-In the future, it'll be something else. 
-

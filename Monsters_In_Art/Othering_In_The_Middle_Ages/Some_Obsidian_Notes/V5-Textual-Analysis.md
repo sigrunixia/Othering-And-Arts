@@ -9,7 +9,7 @@ aliases: [Voicethread 5 - Textual Analysis, Voicethread 5]
 # Summary
 
 >[!tldr] Type, Not Talk
->  This voicethread is going to be primarily written, to help us do in depth literary analysis.
+> This voicethread is going to be primarily written, to help us do in depth literary analysis.
 
 # Slide 3
 
@@ -19,11 +19,13 @@ aliases: [Voicethread 5 - Textual Analysis, Voicethread 5]
 > Artwork is meant to "talk" to us, but they talk through interpretation. They are making statements about how the world works from the artists' point of view, about the nature of [Society](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Society.md), and about [Subjectivity](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Subjectivity.md) and how we should live.
 
 ## Notes
+
 Artwork is meant to "talk" to us, but they talk through interpretation. They are making statements about how the world works from the artists' point of view, about the nature of [Society](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Society.md), and about [Subjectivity](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Subjectivity.md) and how we should live.
 
 Artworks make their statements indirectly. To be fully understood, it must be interpreted. That is, their meaning must be "discovered" by giving thoughtful attention to the words, images, and/or stories an artwork presents. Interpretation amounts to determining what statement(s) an artwork could be making.
 
 ## My Post
+
 ? I have a question.
 
 With art from cultures before us being interpreted in right now, when we look back at at what art has been found and trying to infer meaning from it, how are we handling the situations where there is very little cooborating information to go off of?
@@ -42,9 +44,11 @@ I hope that makes sense.
 >In contempoary meaning, "Text" has more meaning than a piece of writing. Similarly, one can read a piece of art even if there is no writing on it. Some interpretations are valid, some invalid, and the the process for determining how it is valid is succinct.
 
 ### Slide 4
+
 In contemporary meaning, "[../../../000 Meta/000 Inbox/001 Dictionary/O - U/Text (Contemporary)](../../../000%20Meta/000%20Inbox/001%20Dictionary/O%20-%20U/Text%20(Contemporary))" has more meaning than a piece of writing. Definition added to its own page.
 
 #### Voicethread Post
+
 ? Another question!
 
 This was the first time I have seen text used in a way to describe any piece of art or "object of analysis." I tried looking up the entomology to find the usage elsewhere, and the closet I found was Wiktionary[^1] with the following:
@@ -62,17 +66,21 @@ So I am assuming that this is something that is a part of literary theory?
 [^2] <https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/text.html>
 
 ### Slide 5
+
 Reading is often thought of as something we actively apply to writing, but it can be applied more broadly, such as reading works of art. Reading can be used interchangeably with interpretation.
 
 ### Slide 6
+
 The aim of reading is to identify a range of statements the text could be making. There is no one true meaning.
 
 ### Slide 7
+
 Valid interpretations involves identifying details based on language and or image within the text of the work.
 In most texts, each text or image has a publicly accepted range of meanings mutually agreed upon.
 Interpretation focuses on the publicly understood meaning of words.
 
 ### Slide 8
+
 Interpretation is guided and limited by details already known.
 Another aim of interpretation is to avoid invalid interpretation. Idiosyncratic interpretations are invalid.
 A [Person](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Person.md) has to be careful of their own biases when interpreting.
@@ -85,17 +93,21 @@ A [Person](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Person.md) has to be
 >We go over the process of interpretation. We deep dive into the major thoughts of the text, and determine what is the publically accepted details of each of the meanings.
 
 ### Slide 9
+
 Interpretation results from looking carefully at each major detail.
 
 > "Thus these warriors lived in joy, blessed, until one began to do evil deeds, a hellish enemy."
 >—The Arrival of Grendel in Beowulf
 
 Our task is to interpret that text:
+
 - What could it mean?
 - What statement(s) is it making?
 
 ### Slide 10
+
 We have at least six major parts of this text:
+
 - Warriors
 - Lived in Joy
 - Blessed
@@ -106,14 +118,18 @@ We have at least six major parts of this text:
 We know what warriors are generally, same for lived in joy.
 
 ### Slide 11
+
 For blessed, here we are having to do a bit of deep diving. Does "Blessed" mean:
+
 - Assert that their joyful living was good and wholesome?
 - Favored and helped by a divine being?
 
 At this point, we know both interpretations are possible because we know that both are part of what people generally understand blessed to be. We may discover later one less or more interpretation, but for now we have two permitted meanings.
 
 ### Slide 12
+
 For One, does it mean:
+
 - One of the warriors?
 - A [Person](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Person.md)?
 People commonly use it both ways, so we must permit both until we gather more information until we have a more solid answer.
@@ -121,12 +137,15 @@ People commonly use it both ways, so we must permit both until we gather more in
 For "Began to do evil deeds", we know that he upsets social order where people have lived in joy, and thus he must be a big, bad, evil guy in the story.
 
 ### Slide 13
+
 A Hellish Enemy:
+
 - The word hellish tells us about the viciousness of this "one" who does "evil", and it suggests the seriousness of the damage and trouble he causes in the social order.
 - Also, calling them a hellish enemy links the "one" to the devil, and therefore makes them an enemy of social order and of God. This link to God confirms that the "one" is evil and also aligns the social order with God, since both are the "one's" enemies.
 - Bringing God into the text, even indirect this way, helps clarify how we should read "blessed" earlier in the text. From this point on in our reading, we might think of the warriors as having enjoyed divine favor unless/until something in the text excplicitly prohibits us from thinking that way.
 
 ### Slide 14
+
 So far this is our interpretation:
 A group of warriors lived happily (with divine favor) until an enemy of both God and the social order (who was one of the warriors) began upsetting the [Status Quo](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Status%20Quo.md) in evil and vicious ways.
 
@@ -138,46 +157,56 @@ A group of warriors lived happily (with divine favor) until an enemy of both God
 >In interpretation, information that is explicitly stated is required to be included. Information that is interpreted and makes sense publicly is permitted.
 
 ### Slide 15
+
 The interpretation of the text *must* include meanings that __are required__ by the language.
+
 - For example, the text states the warriors lived good lives until one did evil deeds and became a hellish enemy.
 
 That information is required to be included.
 
 Additionally, there is information that is not required but is permitted by textual details.
+
 - For example, there is some evidence to suggest that the warriors lived good lives, and lived with divine favor.
 - There is also some evidence that the evil "one" was a member of the warrior group.
 
 ### Slide 16
+
 Sometimes the text contains ambiguous details that call for details to make decisions about what a a segment of text means, or we may end up inadvertently conflicting with the other details of the text. This leads to prohibited details as we'll see next slide.
 
 ### Slide 17
+
 "The grim spirit was called Grendel, known as rover of the borders, one who held the moors, fen and fastness. Unhappy creature, he lived for a time in the home of the monsters' race, after god had condemned them as kin of Cain."
 
 - Most readers would see textual evidence there to argue that Grendel was grim and unhappy, that he lived apart from mankind, and that he had once associated with a bad crowd.
 - Now imagine a reader, familiar with the old testament, who fishes in the boundary waters. He reads the text and notes the passage of Cain. He is struck by "the moors, fen, and fastness." The latter makes him think of boundary waters and the reference to Cain makes him think of murder. Both are understandable responses to the text.
 
 ### Slide 18
+
 Next, our careless reader articulates his __response__ as if it were an __interpretation__:
 He says, "I think this says Grendel was a fisherman who had murdered someone on a trip to a wilderness lake."
 
 This is a text that relies more on the readers personal experiences, and is not supported by textual details. It is an overly imaginative stretch of what the text actually shows.
 
 ### Slide 19
+
 If asked what textual details might support his statement, our reader might respond:
 "Well, Grendal is grim and unhappy, as anyone might be if they were wanted for murder."
 
 That is not good reasoning, of course, because…
+
 - The text does not say Grendel was wanted for Murder
 - There could be many reasons why Grendel is grim and Unhappy
 
 To prove that a literary character had committed murder a reader would need to find a stronger textual evidence than the mere mention of Cain.
 
 ### Slide 20
+
 Our careful reader made a very understandable mistakehe wanted to get to the explanation of why before sorting out what the text really stated. It is understandable, and natural, and the story is pushing very hard to sell you on one interpretation of Grendel - that he is evil.
 
 The careful reader's job is to lay the groundwork of looking at the text in depth, so we can determine the why with more standing.
 
 ## Slide 21
+
 ### Who is Grendel
 
 > Thus these warriors lived in joy, blessed, until one began to do evil deeds, a hellish enemy. The grim spirit was called Grendel, known as a rover of the borders, one who held the moors, fen and fastness. Unhappy creature, he lived for a time in the home of the monsters’ race, after God had condemned them as kin of Cain.
@@ -185,11 +214,13 @@ The careful reader's job is to lay the groundwork of looking at the text in dept
 I'm focused on the middle sentence here. The grim spirit portion I will touch on last.
 
 "A rover of the borders" (Fun fact, this line was added for context in the translated version and doesn't exist in the original text)
+
 - "A" implies an application of a label in addition to a singular count.
 - "Rover" can be interpreted two ways here. The modern term for Rover is someone who wanders. A more archaic version in middle english and dutch "robber", or the related reaver. The old english equivalent is "reafian" which is "to plunder, soil".[^1] From the context of the entire story, both can certainly fit.
 - "Of the borders" The normal usage for borders we use today is all I can reliably determine this to be , which would be property edges, political land edges, and natural changes in terrain. It isn't specified what borders yet.
 
 "One Who Held the Moors, Fen, and Fastness"
+
 - "One" reinforces the "A" from earlier..
 - "Who Held" I attribute this to being less of an "Grendel owned" and more of "Grendel made it their territory" which is a different construct. He also couldn't physically hold the entirety of a moor, or a fen, or the fastness of them.
 - "The Moors" - I don't think this has changed over time, so uncultivated, open tracts of land. Moor refers to highland and heath refers to lowland moors (which include wetlands). Dartmoor, England has many examples of highland moors: <https://thedukeofcornwall.co.uk/wp-content/uploads/2017/11/Guests-walking-Dartmoor.jpg>
@@ -199,6 +230,7 @@ I'm focused on the middle sentence here. The grim spirit portion I will touch on
 From this middle sentence, I can strongly infer that Grendel roved and perhaps robbed along the borders of the moors and the fen, since it is established that they were interacting with those places. Additionally, that they took refuge in the moors and fen.
 
 Tying that into the entire quote.
+
 1. We have the warriors in joy and blessed, perhaps blessed by a deity, perhaps simply blessed by circumstance.
 2. We have Grendel living with the monsters' race for a time, but not permanently.
 
@@ -211,9 +243,11 @@ Current Usage: - Grim - The poem needs an enemy in order to make Beowulf the her
 ---
 
 ### Other Responses - Spencer
+
 In this description of Grendel, one thing that stands out to me is the mention of the "home of the monsters' race." Without further context, what could this mean from this quote alone? It implies he is a monster, but does not directly confirm it in this quote alone. Someone "living for a time" in a location does not necessarily make them a native inhabitant or member of a race, per se. While we of course learn more about Grendel, this quote alone makes his monstrous nature unclearwe know that he is a hellish being, an evil spirit of sorts, but it is unclear if he is even a tangible entity or some sort of ghost as of yet, and what relevance the locations mentioned here have to his origin.
 
 #### My Reply
+
 The line alone does not imply he is a monster. We gather that data from other, supporting evidence.
 
 "He lived for a time in the home of the monsters' race."
@@ -237,12 +271,15 @@ B.1 Word for Thought: The mentioning of Cain and the explanations of Cains actio
 I'm sure there is a C and a D option, but it's not coming to me. If it does, I'll edit this post. :)
 
 ## Slide 22-24
+
 ### My Post
+
 A few years ago, I ended up writing some short historical fiction about the Christianization of Northern Europe and Iceland, so I got real comfortable with a dictionary and researching about that time period (yet I did not read [Beowulf](Beowulf) till now…).
 
 __Pretty safe to take it as it is__: Warrior, Deeds, Enemy, Grim Spirit, Grendel
 
 It seems odd that I left Grim Spirit in there, but:
+
 - Less grim as in depressed Eeyore, and more grim as in a Vengeful Wraith or the Wendigo.
 - Spirit is a common translation word for origin words that could mean ghost, demon, angel, undead, a deity, and something otherwise [Supernatural](../../../../10%20Zettelkasten/12%20Baby%20Zettel/Supernatural.md).
 
