@@ -1,3 +1,3 @@
-# Othering and the Arts
+# Othering, Cultural Works, and Pervasiveness
 
-Under Construction
+Under Construction when I have time.
