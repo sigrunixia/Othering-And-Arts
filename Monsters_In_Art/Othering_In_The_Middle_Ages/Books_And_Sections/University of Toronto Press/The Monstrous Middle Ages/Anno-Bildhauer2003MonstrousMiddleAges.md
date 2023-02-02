@@ -1,5 +1,5 @@
 ---
-created: <% tp.file.creation_date("DD/MM/YYYY") %>
+created: 02/02/2023
 publicationyear: "2003"
 tags: Zotero/Annotation
 Pages: 
