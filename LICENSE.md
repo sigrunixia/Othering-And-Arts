@@ -1,6 +1,13 @@
-# Creative Commons Legal Code
+---
+aliases: 
+created: +002023-02-07 1403
+publish: false
+tags: 
+updated: +002023-04-19 0110
+---
+## Creative Commons Legal Code
 
-## CC0 1.0 Universal
+### CC0 1.0 Universal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
@@ -11,7 +18,7 @@
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
 
-## Statement of Purpose
+### Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator
@@ -60,7 +67,7 @@ vii. other similar, equivalent or corresponding rights throughout the
      world based on applicable law or treaty, and any national
      implementations thereof.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
+1. Waiver. To the greatest extent permitted by, but not in contravention
 of, applicable law, Affirmer hereby overtly, fully, permanently,
 irrevocably and unconditionally waives, abandons, and surrenders all of
 Affirmer's Copyright and Related Rights and associated claims and causes
@@ -77,7 +84,7 @@ revocation, rescission, cancellation, termination, or any other legal or
 equitable action to disrupt the quiet enjoyment of the Work by the public
 as contemplated by Affirmer's express Statement of Purpose.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
+2. Public License Fallback. Should any part of the Waiver for any reason
 be judged legally invalid or ineffective under applicable law, then the
 Waiver shall be preserved to the maximum extent permitted taking into
 account Affirmer's express Statement of Purpose. In addition, to the
@@ -99,7 +106,7 @@ Rights in the Work or (ii) assert any associated claims and causes of
 action with respect to the Work, in either case contrary to Affirmer's
 express Statement of Purpose.
 
-4. Limitations and Disclaimers.
+3. Limitations and Disclaimers.
 
  a. No trademark or patent rights held by Affirmer are waived, abandoned,
     surrendered, licensed or otherwise affected by this document.
